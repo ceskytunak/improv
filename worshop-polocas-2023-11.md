@@ -42,15 +42,44 @@
 - volný prostor pro pohybové aktivity
 - scéna s židlemi do širokého U + světla
 
-## Hashtagy
+## Základní ingredience pro story longformy (simple verze)
 
-- Scéna nikdy nekončí
-- Everybody is a horse, nepřistupuj k cizímu koni zezadu
-- Do not be specific
-- Act like a human
-- Koukej se do očí
-- Nehraj pro diváka
-- Tělo vždy říká pravdu
+- nastavení místa a času / ordinary world
+- vykreslení postav
+- vstup do příběhu / změna oproti normálu
+- horská dráha / rising stakes / konflikt
+- poučení
+- závěr
+
+## Hero journey 
+Extended framework pro tvorbu příběhů.
+
+## Storytelling long / freeformy
+
+- úvod (nastavení ordinary worldu, vykreslení hrdiny, světonázo, tužby)
+- zěmna oproti normálu, problém, konflikt -> uvádí děj do pohybu
+- vývoj příběhu, zvyšování sázek, rozvíjet problém příběh, investovat do postav a příběhu
+- vyvrcholení, dobré, špatné, ale už se to musí rozlomit
+- poučení a vstup do nového života. Konec je novám začátkem... třeba dalšího příběhu
+
+## Střihy
+
+- herecké (přeběhnutí scény s rukama jako nůžkama / vyběhnutí na forbínu / vstup vypravěče - přidání informací, posun děje / vstup vypravěče -> scéna na jiném místě - prostřih jinam) vs technické (tma / hudba / opona / přestavba scény / změna kostýmu)
+
+
+## Důležité principy, které je třeba cvičit
+
+- rozvíjení toho, co je (yes and; pojď mi to ukázat; to mi připomíná; )
+- kontrast (já jsem ředitel, je to je super, já taky)
+- držet se jednoho hrdiny, držet jednu příběhovou linku; nutné osekávat parazitní příběhové linky
+- ústřední postava / hrdina (může být jednou postavou, ale také může být ) útřední postava víc v roli vypraveče a hrdina může být postava v jeho příběhu )
+- scéna nikdy nekončí
+- everybody is a horse, nepřistupuj k cizímu koni zezadu
+- do not be (too) specific
+- act like a human
+- koukej se do očí
+- nehraj pro diváka
+- tělo vždy říká pravdu
 
 ## Hrubé členění bloků
 
@@ -81,6 +110,7 @@
 - mentální blok 
 - velký feedback
 - closing
+
 
 ## Sobota dopoledne - já, prostor a longforma
 
