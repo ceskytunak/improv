@@ -42,6 +42,16 @@
 - volný prostor pro pohybové aktivity
 - scéna s židlemi do širokého U + světla
 
+## Hashtagy
+
+- Scéna nikdy nekončí
+- Everybody is a horse, nepřistupuj k cizímu koni zezadu
+- Do not be specific
+- Act like a human
+- Koukej se do očí
+- Nehraj pro diváka
+- Tělo vždy říká pravdu
+
 ## Hrubé členění bloků
 
 ### Sobota dopoledne
@@ -91,5 +101,59 @@
 ## Sobota odpledne - hrajeme freeformu
 
 ## Neděle dopoledne - my, longformy a kam dál
+
+# Obecné principy longformy a techniky užitečné k jejich rozvoji
+
+## Ano, a...
+
+### Scéna dvou vět:
+Dva lidé stojí proti sobě. Jeden člověk začíná scénu větou. Druhý člověk poté reaguje větou, která říká "Ano, a..." a navazuje na první osobu. To pokračuje sem a tam o dvě řádky každý.
+
+### Práce s objekty:
+Dva lidé dostanou předmět, například klobouk nebo židli. Poté musí improvizovat scénu, ve které tento předmět použijí tolika různými způsoby, kolik je to možné.
+
+### Umístění:
+Dva lidé dostanou místo, například park nebo obchod s potravinami. Poté musí improvizovat scénu, která se odehrává na tomto místě.
+
+## Aktivní naslouchání
+### Hra na slepou bábu:
+Jednomu člověku se zavážou oči a druhý ho vede po místnosti a popisuje mu, co vidí. Člověk se zavázanýma očima musí pak hádat, co se dotýká nebo cítí.
+
+### Hra na ozvěnu:
+Jeden člověk řekne větu a druhý ji musí přesně zopakovat. To se několikrát opakuje.
+
+### Následuj vůdce:
+Jeden vede druhého (nebo skupinu jako vláček) po místnosti a provádí různé pohyby a zvuky. Následovník se ho snaží co nejpřesněji následovat.
+
+## Být přítomný
+### Freeze
+Herci začnou scénu jako obvykle. Kdykoli režisér může zakřičet "Freeze!" a Herci musí na místě zmrznout. Poté musí několik sekund držet svou pozici předtím, než budou pokračovat ve scéně.
+
+### Slow motion
+Herci začnou scénu jako obvykle. Kdykoli režisér může zakřičet "Slow motion!" a Herci musí zpomalit své pohyby a mluvení. Poté se pokračuje ve scéně ve zpomaleném pohybu několik sekund před návratem k normální rychlosti.
+
+### Zrcadlo
+Dva stojí proti sobě. Jeden udělá pohyb nebo výraz a druhý se ho musí snažit napodobit co nejpřesněji. 
+
+## Chyba je kámoš
+### Hra na chyby
+Herci začnou scénu jako obvykle. Kdykoli režisér může zakřičet "Chyba!" a improvizátoři musí udělat záměrnou chybu, například říct špatné slovo nebo udělat špatnou akci. Poté musí pokračovat ve scéně, jako by se nic nestalo.
+
+### Selhání
+Herci se záměrně snaží v něčem selhat, například postavit věž z cihel nebo vyřešit puzzle. Cílem je poučit se z chyb a nakonec uspět.
+
+### Chaos is the new black
+Herci začnou scénu bez jasného cíle nebo směru. Jednoduše nechají scénu rozvinout se organicky, bez ohledu na to, jak chaotická nebo nesmyslná se stane.
+
+## Have fun
+
+### Dance with the devil
+Všichni si pustí hudbu a tančí po místnosti jako šílení. Mohou být tak blázniví a nezkrocení, jak chtějí.
+
+### Předstírání (v kůži někoho jiného)
+Herci se tváří jako něco jiného, jako zvířata, superhrdinové nebo mimozemšťané. Mohou dělat co chtějí, pokud se baví.
+
+### Just be
+Herci se jednoduše baví spolu. Nestarají se o to, co říkají nebo dělají, prostě si užívají ten okamžik.
 
 
