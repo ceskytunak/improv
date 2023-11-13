@@ -111,6 +111,8 @@ Extended framework pro tvorbu příběhů.
 - velký feedback
 - closing
 
+# Podrobný harmonogram workshopu
+
 ## Sobota dopoledne - já, prostor a longforma
 
 - **Začátek povídací** v kolečku. Nastavit rámec workshopu, obavy a očekávání, sepsat zakázku od účastníků. (15 minut.)
