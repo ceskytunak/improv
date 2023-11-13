@@ -159,6 +159,22 @@ Extended framework pro tvorbu příběhů.
 - **Wrap-up a konec sobotního bloku**
 
 ## Neděle dopoledne - my, longformy a kam dál
+- **mornign dynamic** (15 min)
+- **Povídání o strukturovaných longformách** (10 min)
+- **Harold - principy** (10 min)
+- **Harold - hra** (40 min)
+- **Feedback na Harolda** (10 min)
+- **Armando - principy** (10 min)
+- **Armando - hra** (30 min)
+- **feedback na Armando** (10 min)
+- **coffe break** (15 min)
+- **FADE - principy** (10min)
+- **FADE - hra** (60min)
+- **feedback na FADE** (10 min)
+- **rezerva a Q&As**
+- **wrap-up a feedback na workshop** (15 min)
+- **oběd** 
+- **odjezd**
 
 # Obecné principy longformy a techniky užitečné k jejich rozvoji
 
