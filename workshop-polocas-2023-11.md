@@ -154,18 +154,18 @@ Extended framework pro tvorbu příběhů.
 - **Povídání o střihových technikách** - na rozdíl od strukturovaných longforem, kde je často střih prováděn přechodem mezi scénami (např motel 1. 2. a 3. dějství + tajemství). U freeforem má herec zodpovědnost za posun děje v čase a prostoru sám. K tomu je každý herec oprávněná a zodpovědný to udělat. Existují nějaké obecně známé techniky střihu, které je dobré si v týmu zvědomit a domluvit se na nich před hraním, nebo v rámci týmu. Nejznámější je přechod přes první plán se zvednutou rukou ala kleopatra a zahlášení změny, tedy např "o 2 roky dříve, nebo v bytě Honzy Janáčka". Další technikou je tma (zdůraznit roli osvětlovače). Zvuk (Spuštění hudby) a fadeout scény. Technika je "...to bylo tenkrát" -> skok do jiného časového světa.
 
   *Druhy střihů (výběr)*
-- herecké
-  - přeběhnutí scény s rukama jako nůžkama
-  - vyběhnutí na forbínu s monologem
-  - vstup vypravěče - přidání informací, posun děje
-  - vstup vypravěče -> scéna na jiném místě - prostřih jinam
-  - změna pozice na scéně
-- technické
-  - tma
-  - hudba
-  - opona
-  - přestavba scény
-  - změna kostýmu
+  - herecké
+    - přeběhnutí scény s rukama jako nůžkama
+    - vyběhnutí na forbínu s monologem
+    - vstup vypravěče - přidání informací, posun děje
+    - vstup vypravěče -> scéna na jiném místě - prostřih jinam
+    - změna pozice na scéně
+  - technické
+    - tma
+    - hudba
+    - opona
+    - přestavba scény
+    - změna kostýmu
  
   (25 minut)
 - **Cvičení - mi to střihni** - yes and cut. Dva hrají, dva jsou připraveni střihat. Krátká scéna ve stylu ano a. Další dva hráči mají zodpovědnost střihat. (30 minut)
@@ -272,6 +272,10 @@ Herci se tváří jako něco jiného, jako zvířata, superhrdinové nebo mimoze
 Herci se jednoduše baví spolu. Nestarají se o to, co říkají nebo dělají, prostě si užívají ten okamžik.
 
 # License
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 Toto dílo je licencováno pod 
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
