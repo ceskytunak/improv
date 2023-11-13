@@ -230,4 +230,7 @@ Herci se tváří jako něco jiného, jako zvířata, superhrdinové nebo mimoze
 ### Just be
 Herci se jednoduše baví spolu. Nestarají se o to, co říkají nebo dělají, prostě si užívají ten okamžik.
 
-
+# License
+Toto dílo je licencováno pod 
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
