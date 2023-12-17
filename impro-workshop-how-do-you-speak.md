@@ -15,10 +15,14 @@ Rádio, aktivní zvukař, osvětlovač, hudební nástroje, kapesní svítilny/�
 
 ## Cíle workshopu
 
+- Naučit se používat neverbální komunikaci v improvizačních divadelních představeních.
+- Zlepšit schopnost improvizačních herců vnímat a reagovat na neverbální signály.
+- Zvýšit kreativitu a expresivitu improvizačních herců.
+
 Účastník workshopu:
-- Umí používat alernativní výrazové prostředky místo mluvení při improvizace.
+- Umí používat alernativní výrazové prostředky místo mluvení při improvizaci.
 - Otevírá cesty jak komunikovat jinak než slovy.
-- Buduje scénu tak, aby nevyžadavala slova.- 
+- Buduje scénu tak, aby nevyžadavala slova.
 - Umí gesta pojmenovat.
 
 ## Technické vybavení na workshop
@@ -104,31 +108,70 @@ https://cs.wikipedia.org/wiki/Gesto#:~:text=kde%C5%BEto%20Bulha%C5%99i%20naopak.
 https://cs.wikipedia.org/wiki/Kinezika
 https://cs.wikipedia.org/wiki/Metakomunikace
 https://en.wikipedia.org/wiki/Morra_(game)
+https://cs.wikipedia.org/wiki/Neverb%C3%A1ln%C3%AD_komunikace
 
 ## Hrubá struktura workshopu
 
 ### Blok 1 - Intro a seznámení s tichem
-- společné kolečko - očekávání, obavy
-- pohybový warmup - intenzivní
-- mentální blok
-- pauza na kafe
+- společné kolečko - očekávání, obavy - 15 minut
+- pohybový warmup - intenzivní - 15 minut
+- mentální blok - 75 minut
+- pauza na kafe - 15 minut
 
 ### Blok 2 - Zvědomování gest, pojmenovávání
-- warmup
-- mentální blok
-- oběd
+- warmup - 7 minut
+- mentální blok - 105 minut
+- feedback - 8 minut
+- oběd - 1h
 
 ### Blok 3 - Dílčí techniky, menší celky, kombinace
-- warmup
-- mentální blok
-- pauza na kafe
+- warmup - 10 minut
+- mentální blok - 95 minut
+- pauza na kafe - 15 minut
 
 ### Blok 4 - Full-on hraní, feedbacky
-- warmup
-- mentální blok 
-- feedback & closing
+- warmup - 5 minut
+- mentální blok  - 95 minut
+- feedback & closing - 20 minut
 
 ## Podrobné techniky workshopu a možná časové osa
+
+### Časová osa
+
+- 8:30 příchod, převlečení, čaj
+- 9:00 začátek
+- 10:45 coffee break
+- 11:00 program
+- 13:00 oběd
+- 14:00 program
+- 15:45 coffe break
+- 18:00 konec programu
+- 18:30 zhasínáme odcházíme
+
+### Teoretické základy neverbální komunikace
+- Postavení těla
+- Gesty
+- Výraz obličeje
+- Oční kontakt
+- Tón hlasu
+
+
+- Jak používat neverbální komunikaci k vytváření postav, prostředí a příběhů
+- Jak reagovat na neverbální signály ostatních herců
+
+
+- **Vytváření postav:** Účastníci se rozdělí do dvojic a každý z nich si vymyslí postavu, kterou bude hrát. Postavy budou založeny na neverbálních signálech.
+- **Vytváření prostředí:** Účastníci se rozdělí do skupin a vymyslí si prostředí, ve kterém se bude odehrávat improvizované představení. Prostor bude založen na neverbálních signálech.
+- **Vyprávění příběhu:** Účastníci se rozdělí do skupin a vymyslí si příběh, který budou hrát pouze pomocí neverbálních signálů.
+
+
+
+
+### Hry
+#### Předávání informací neverbálně:
+Účastníci se rozdělí do dvojic a jeden z nich předá druhému nějakou informaci, například příběh, zprávu nebo instrukce, pouze pomocí neverbálních signálů.
+
+
 
 TBD
 
