@@ -1,5 +1,5 @@
 # Impro workshop - How do you speak?
-![Improv Workshop](https://img.shields.io/badge/Improv-Workshop-red) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+![Improv Workshop](https://img.shields.io/badge/Improv-Workshop-red)[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 #hudba #pohyb #pantomima #gesta #impro #kinezika
 
