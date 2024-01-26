@@ -1,7 +1,11 @@
 # Improlab - Poločas - experimentální úterky
 ![Improv Workshop](https://img.shields.io/badge/Improv-Workshop-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green)  [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-
+# Hlavní témata
+ - vývoj nové longformy
+ - testování techniky (samplery, mikrofony, mixáky, appky, světla)
+ - tvorba multimediálního obsahu (videa)
+ 
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
