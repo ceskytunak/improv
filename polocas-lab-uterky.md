@@ -13,6 +13,7 @@ Z feedbacku je zřejmé, že je o toto téma zájem. Nabízejí se dvě hlavní 
 
 
 
+
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 Toto dílo je licencováno pod 
