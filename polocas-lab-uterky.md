@@ -5,7 +5,13 @@
  - vývoj nové longformy
  - testování techniky (samplery, mikrofony, mixáky, appky, světla)
  - tvorba multimediálního obsahu (videa)
- 
+
+# Vývoj nové longformy
+Z feedbacku je zřejmé, že je o toto téma zájem. Nabízejí se dvě hlavní cesty.
+ 1. využít externího lektora skrze kterého vytvoříme "signature logform"
+ 2. vytvořit ji vlastními silami, např: upravením nějakého longformového frameworku
+
+
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
