@@ -8,8 +8,11 @@ Trénink zaměřený na komunikaci beze slov a hraní. Cílem je posílit výraz
 ## Ke zvědomnění na začátku
 Prostředí významně ovlivňuje způsob, jak spolu komunikujeme. Zvědomování možností komunikace v daném prostoru (akustika, hudba, světlo) skrze nástroje, které máme k dispozici. Vytváření příležitostí ke komunikaci.
 
+Téma na přístí improshow: Konspirační teorie; vzít případně do hry
+
 ## Vybavení
 - Bluetooth reprák
+- notebook, internet
 - židle
 
 ## Osnova
@@ -37,11 +40,17 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 - jednoduchý podkres z bluetooth repráku
 - 2 + 2 (dva hrají a dva jsou optional ready vstoupit do scény)
 
+- sidequests
+- prostředí
+
 **Alternativně k otestování technika s aktivní židlí**
 - freeforma, kde do hry se aktivně přihlásí kdokoiv s vlastní židlí
 - hráči stojí na kraji s cény s židlí v ruce a jsou připraveni aktivně vstoupit do hry
 - po ukončení scény / střihu s každý hráč vezme židli (ideálně tu svoji). Může občas zapomenout, pak se ale pozůstalá židle musí vzít do hry v další scéně.
 
+
+**Alternativně k otestování Motherfucker**
+- začíná se jako normální freeforma, ale dopředu se ví, že do scény přijde Motherfucker, tedy postava, která je velmi záporná a musí do scény přinést problém, konflikt, třeba i jen tím, že přijde, Motherfucker tedy může sám aktivně přinést problém, nebo pasivně být problémem a problém z něj musí udělat hráči na scéně.
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
