@@ -61,13 +61,14 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 - Bavily tě improvizační hry? Které se ti líbily nejvíce? Zdály se ti náročné v užitečném smyslu?
 
 ## Feedback z tréninku - zápisky
-- na rozcvičce projet asociace
+- na rozcvičce projet asociace, víc naladění
 - židle jsou spíše na obtíž, nutí hráče "šaškovat"
 - investovat do vztahů
-- fungují kontrasty
+- vyhnout se šumlované a pantomimě místo nemluvení, ale prostě ty věci zahrát
 - nebýt specifický ohledně prostředí, spíše jej používat
-
-## Feedback 
+- fungují kontrasty
+- nelepit si hlavního hrdinu vteřinovým lepidlem na židli
+- dát pauzu
 
 
 ## Thoughts nad konceptem tréninku
