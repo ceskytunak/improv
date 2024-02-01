@@ -43,7 +43,6 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 
 - sidequests
 - prostředí
-- 
 
 **Alternativně k otestování technika s aktivní židlí**
 - freeforma, kde do hry se aktivně přihlásí kdokoiv s vlastní židlí
@@ -53,6 +52,12 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 
 **Alternativně k otestování Motherfucker**
 - začíná se jako normální freeforma, ale dopředu se ví, že do scény přijde Motherfucker, tedy postava, která je velmi záporná a musí do scény přinést problém, konflikt, třeba i jen tím, že přijde, Motherfucker tedy může sám aktivně přinést problém, nebo pasivně být problémem a problém z něj musí udělat hráči na scéně.
+
+## Feedback z tréninku
+- na rozcvičce projet asociace
+- židle jsou spíše na obtíž, nutí hráče "šaškovat"
+- investovat do vztahů
+- 
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
