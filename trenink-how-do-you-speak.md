@@ -22,6 +22,7 @@ Rozcvička zaměřená na pohyb a prostor. Haptika. Animální zvuky a chování
 Během tréninku se nerozmlouváme, ale spíše rozezníváme. 
 
 - začátek 8 minut na hudbu, uplně free, každý sám se svým tempem rozcvičuje
+[Subradial Space Age](https://soundcloud.com/somalabsmusic/subradial-space-age)
 - pohyb po prostoru s velkými výrazovými prvky, jako máchání rukama, silly walk
  - postupné přidávání zvuků do pohybu
 - (zvukový obraz) tématizování prostoru, např zvuky jungle a pohyby jungle
@@ -42,6 +43,7 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 
 - sidequests
 - prostředí
+- 
 
 **Alternativně k otestování technika s aktivní židlí**
 - freeforma, kde do hry se aktivně přihlásí kdokoiv s vlastní židlí
