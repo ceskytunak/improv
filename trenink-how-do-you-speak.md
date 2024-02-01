@@ -53,11 +53,27 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 **Alternativně k otestování Motherfucker**
 - začíná se jako normální freeforma, ale dopředu se ví, že do scény přijde Motherfucker, tedy postava, která je velmi záporná a musí do scény přinést problém, konflikt, třeba i jen tím, že přijde, Motherfucker tedy může sám aktivně přinést problém, nebo pasivně být problémem a problém z něj musí udělat hráči na scéně.
 
-## Feedback z tréninku
+## Otázky na feedback
+- Co se ti workshopu líbilo nejvíce?
+- Co tě bavilo nejméně?
+- Měl jsi pocit, že jsi se naučil nové věci nebo zdokonalil své dovednosti? Pokud ano, co konkrétně?
+- Pomohly ti rozcvičovací cvičení cítit se připraven na hlavní aktivity? Byly zábavné a efektivní?
+- Bavily tě improvizační hry? Které se ti líbily nejvíce? Zdály se ti náročné v užitečném smyslu?
+
+## Feedback z tréninku - zápisky
 - na rozcvičce projet asociace
 - židle jsou spíše na obtíž, nutí hráče "šaškovat"
 - investovat do vztahů
-- 
+- fungují kontrasty
+- nebýt specifický ohledně prostředí, spíše jej používat
+
+## Feedback 
+
+
+## Thoughts nad konceptem tréninku
+- uplně nefunguje úplné nemluvení, hráči stále spadají do potřeby mluvit a věci vysvětlovat
+- rekvizity odvádějí pozornost od vztahů
+
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
