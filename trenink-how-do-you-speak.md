@@ -1,6 +1,6 @@
 # Trénink How do you speak?
 
-![Improv Class](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green)[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+![Improv Class](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Cíl tréninku
 Trénink zaměřený na komunikaci beze slov a hraní. Cílem je posílit výrazovou složku v improvizaci na úkor slov. Kde je možné nahradit slova gestem, pohybem, zvukem, namalováním, zhasnutím či prostě jinak, pak je to vždy preferovaná volba před mluvením. Jména, citoslovce a jednoduché výrazy lze používat bez omezení, ideálně za doprovodu odpovídajícího gesta.
@@ -16,7 +16,21 @@ Prostředí významně ovlivňuje způsob, jak spolu komunikujeme. Zvědomován�
 
 ### Rozcvička
 Rozcvička zaměřená na pohyb a prostor. Haptika. Animální zvuky a chování. Gesta.
-Během workshopu se nerozmlouváme, ale spíše rozezníváme. 
+Během tréninku se nerozmlouváme, ale spíše rozezníváme. 
+
+- začátek 8 minut na hudbu, uplně free, každý sám se svým tempem rozcvičuje
+- pohyb po prostoru s velkými výrazovými prvky, jako máchání rukama, silly walk
+ - postupné přidávání zvuků do pohybu
+- (zvukový obraz) tématizování prostoru, např zvuky jungle a pohyby jungle
+ - jungle
+ - new york
+ - kanalizace
+ - technopárty
+ - kancelář
+ - metro
+ - nemocnice
+- noisemachine - skupina se rozdělí na menší celky, třeba po dvou, třech a jednoho dirigenta. Dirigent postupně předzpívává části melodiií, které pak daná skupina opakuje. Dirigent může jednotlivé skupiny, ztlumovat, zesilovat nebo měnit
+
 
 ### Hlavní blok
 **Freeformy s doprovodem hudby**
