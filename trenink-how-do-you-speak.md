@@ -69,12 +69,11 @@ Během tréninku se nerozmlouváme, ale spíše rozezníváme.
 - fungují kontrasty
 - nelepit si hlavního hrdinu vteřinovým lepidlem na židli
 - dát pauzu
-
+- zastavovat hru pokud na scéně nedochází k plnění cílů tréninku a dávat microfeedbacky rovnou při hraní, ne až po scéně
 
 ## Thoughts nad konceptem tréninku
 - uplně nefunguje úplné nemluvení, hráči stále spadají do potřeby mluvit a věci vysvětlovat
 - rekvizity odvádějí pozornost od vztahů
-
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
