@@ -3,7 +3,7 @@
 ![Improv Class](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Cíl tréninku
-Trénink zaměřený na budování vztahů prostřednictvím intenzivního očního kontaktu, postoj těla, proximity a emocích. Málo mluvení, hodně výměny mezi partnery na jevišti.
+Dvoj trénink zaměřený na budování vztahů prostřednictvím intenzivního očního kontaktu, postoj těla, proximity a emocích. Málo mluvení, hodně výměny mezi partnery na jevišti.
 
 ## Vybavení
 - Bluetooth reprák
@@ -30,11 +30,11 @@ Držet reálné postavy, nestřiháme děj, pohled do očí je 80% dnešního tr
 ## Osnova
 
 ### Rozcvička
-- Začátek 8 minut na hudbu, uplně free, každý sám se svým tempem rozcvičuje.
-
+- Začátek 8 minut na hudbu, uplně free, každý sám se svým tempem rozcvičuje. Vyžadovat, aby se hráči spolu nebavili a nerušili ostatní.
 - Rozcvička klasická, rozhýbání, rozmluvení, rýmování, sladění se.
+- Sedmičky
 
-### Hlavní blok
+### Hlavní blok - 22.02.2024
 **Freeformy s doprovodem hudby**
 - jednoduchý podkres z bluetooth repráku
 - 2 hráči only
@@ -42,6 +42,17 @@ Držet reálné postavy, nestřiháme děj, pohled do očí je 80% dnešního tr
 - pohled do očí
 - emoce
 - sidequest
+
+### Hlavní blok - 29.02.2024
+**Freeformy s doprovodem hudby**
+- jednoduchý podkres z bluetooth repráku
+- 2 hráči only
+
+- sidequest - pokračování s questy od ostatních
+- můj tajný vztah (opakování)
+- lež
+
+### Techniky
 
 #### Emoce
 Do scény jdu s konkrétní emocí. Začínám v emoci a pohledem na partnera si emoce vymenujeme. Z toho vzniká vztah, dynamika.
@@ -73,6 +84,30 @@ V případě charakterových rysů to pak může být např snaha být manipulat
 - Měl jsi pocit, že jsi se naučil nové věci nebo zdokonalil své dovednosti? Pokud ano, co konkrétně?
 - Pomohly ti rozcvičovací cvičení cítit se připraven na hlavní aktivity? Byly zábavné a efektivní?
 - Bavily tě improvizační hry? Které se ti líbily nejvíce? Zdály se ti náročné v užitečném smyslu?
+
+## Poznámky k tréninku 22.02.2024
+- nehrát zády k divákovi
+- nehrát tolik pro diváka
+- koukat na sebe
+- funguje kontrast
+- hra, ve smyslu hravost / game / push-pull
+- když tě někdo poplácá po zadku, tak ti to zvedne náladu
+- nepojmenovávat prostředí
+- netahat sem třetí postavu
+- hrát víc vepředu
+- více vnímat hudbu
+
+# Ze zpětné vazby 22.02.2024
+- funguje focus na jednu techniku během celého tréninku
+- funguje focus na vztahy
+- bylo pro mě srozumitelné, že se jela jedna technika a v průběhu se lehce zesložiťovala. Je to lepší, než střídat hodně kategorií.
+- přijde mi skvělé, že se snažíme být na jevišti přítomní na místo toho se snažit hrát.
+- dát si čas
+
+## TODO na příště
+- Vytvořit google form a od týmu získat náměty na side questy
+- Vyladit nastavení Sound Show, hlavně atmosferické soundy, postahovat z Free databáze, nebo zkusit namapovat další zdroj pro search.
+- spracovat seznam emocí
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
