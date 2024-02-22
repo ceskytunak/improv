@@ -101,13 +101,13 @@ V případě charakterových rysů to pak může být např snaha být manipulat
 - funguje focus na jednu techniku během celého tréninku
 - funguje focus na vztahy
 - bylo pro mě srozumitelné, že se jela jedna technika a v průběhu se lehce zesložiťovala. Je to lepší, než střídat hodně kategorií.
-- přijde mi skvělé, že se snažíme být na jevišti přítomní na místo toho se snažit hrát.
+- přijde mi skvělé, že se snažíme být na jevišti přítomní, oproti snaze hrát.
 - dát si čas
 
 ## TODO na příště
 - Vytvořit google form a od týmu získat náměty na side questy
 - Vyladit nastavení Sound Show, hlavně atmosferické soundy, postahovat z Free databáze, nebo zkusit namapovat další zdroj pro search.
-- spracovat seznam emocí
+- Zpracovat seznam emocí
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
