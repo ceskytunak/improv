@@ -1,4 +1,4 @@
-# Trénink Look In To My Eyes
+# Trénink Look Into My Eyes
 
 ![Improv Class](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
