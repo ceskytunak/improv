@@ -37,12 +37,12 @@ S sebou na svícení je dobré si vzít navíc čelovku, propisku, papírovou le
 
 | CH-1 | CH-2 | 
 | ---  | ---  | 
-| WHITE  | WARM WHITE |
+| WARM WHITE | WHITE |
 
 **Tech specs**
 | Feat | Value |
 | --- | --- |
-| LEDs                           | 2x50W W WW |
+| LEDs                           | 2x50W WW W |
 | Number of DMX channels         | 2 |
 | Operating supply voltage       | AC 230 V , 50 Hz |
 | Power consumption              | 100 W |
@@ -78,11 +78,39 @@ bers add up then:
 | Dimensions                     | (W × D × H) 235 mm × 165 mm × 240 mm |
 | Weight                         | 1.2 kg |
 
-## Nastavení světelného pultu (Eurolite, Work 2412)
+## PC aplikace pro ovládání světel
+### UART převodník - USB-DMX
+- Stačí levná Čína FTDI FT232RL USB DMX
+- Nainstalovat drivery např. [FreeStyler](https://www.freestylerdmx.be/)
+- Namapovat output na FT232R USB UART
 
-Vezměte si prosím k srdci, že se žárovkami je potřeba zacházet opatrně - žádné rychlé přechody a změny plynule.
+### Q Light Controller Plus 5.0.0
+Aktuálně v beta verzi, zatím stabilní, pár bugů. Ale funguje skvěle. Zkoušel jsem několik softů, QLC4, ONYX, Chromateq, SweetLight. Ani s jedním jsem nedosáhl toho, co s QLC5 za pár minut. Svět aplikací pro DMX teprve objevuji, takže určitě mi uniká spousta skvělých programů.
 
-Work 2412 je osvětlovací pult, který má dvě řady po 24 faderech a je snadno programovatelný.
+To co potřebuji je namapovat až 5 LED světel, naprogramovat si je do scén a ty pak mít možnost na jednu šavli per scéna vytahovat a shazovat.
+
+#### Fixtures
+V kartě Fixtures si namapuju světla.
+ - Světlo PAR 36 LED RGB mi dobře funguje profil **Starville -> LED PAR56**.
+ - Světlo 144W RGBW mi dobře funguje profil **Generic -> Generic RGBW**.
+ - Světlo BETOPPER - LC001-H COB mi dobře funguje profil **Botex -> DSP-405 - 2 Channel**.
+
+#### Scenes
+V kartě Simple Desk nastavím jednotlivé kanály tak jak chci ve scéně mít a vpravo nahoře kliknu na Dump on a new Scene. Scénu pojmenuji. Takto si nastavím scény, které potřebuji.
+
+#### Virtual Console
+V kartě Virtual Console si tlačítkem + (Add a new widget) přidám Slider na plochu. 
+Překliknu se do vertikálního tabu Function Manager a přetáhnu scénu na vytvořený slider. Toto opakuji dokud nemám vše nastaveno jak potřebuji.
+Hodit se bude i nějaké CUE na Blackout a ShutDown.
+
+#### Dojmy z QLC 5 Beta3
+Je to hodně beta verze, ale oproti v4 je to mega rozdíl.  
+
+## Nastavení světelného pultu (Eurolite, Work 2412) - svícení v kamenných divadlech s DIMMERY
+
+**Nezapomenout, že se žárovkami je potřeba zacházet opatrně - žádné rychlé přechody a změny plynule.**
+
+Work 2412 je osvětlovací pult, který má dvě řady po 12 faderech a je snadno programovatelný.
 
 Horní řada faderů přímo ovládá stmívače jednotlivých světel (nebo LED kanály), jejichž rozložení je v lepším případě na obrázku před pultem, v tom horším si na to budeš muset přijít sám.
 
