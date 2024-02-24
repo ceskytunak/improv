@@ -21,6 +21,17 @@ Rule of thumb je, že to vypadá příjemně.
 
 Světlem také dáváme focus na to, co je důležité, takže všichni a všechno co hraje by mělo být nasvícené.
 
+## Spůsoby umístění světel
+
+**Přední světla:** Přední světla jsou primárním zdrojem osvětlení pro představení. V mnoha situacích použijete přední osvětlení k osvětlení celé scény. Svítidla, která směřují vpřed k tvářím účinkujících, jsou důležitým výchozím bodem, ale sama o sobě způsobí, že herec bude vypadat plochý.
+
+**Zadní světla:** Chceme-li získat více-rozměrný vzhled, kde herec vyleze z pozadí, potřebujete světla vzadu a podsvícení. Světla jsou umístěna v zadní části jeviště za účinkujícími a mohou být vertikálně umístěna do různých bodů. Svítidla PAR mohou dobře posloužit k tomuto účelu. 
+
+**Podvícení:** Dalším způsobem, jak přidat rozměr scénickému osvětlení, je "downlighting". Podsvícení může mít různou intenzitu. Všimněte si, že někteří designéři používají termín „downlighting“ k označení světel, která jsou umístěna u nohou a vrhají světlo nahoru, a jiní používají tento termín k označení světel, která jsou umístěna nad jevištěm a svítí přímo dolů nebo dolů pod úhlem.
+
+**Boční a vysoké boční osvětlení:** Potřebujeme také světla umístěná na vodorovných okrajích jeviště k osvětlení účinkujících z obou stran. Vysoké boční osvětlení odkazuje konkrétně na boční osvětlení, které je umístěno vysoko, takže svítí na hlavy a ramena účinkujících. Tato světla jsou zásadní pro to, aby byly výrazy herců jasně vidět.
+
+
 ## Osvětlovač je střihač a hráč
 
 Osvětlovač je také v roli střihače, takže je vždy připraven scénu poslat úplně do tmy, takže je celou dobu během představení rukama na pultu a je připraven okamžitě zasáhnout. Toto je důležité hlavně když dochází k obscénostem, k situacím které nejdou zahrát, když to fakt vygraduje a je jasné že to má skončit, atd. **Osvětlovač je hráč!**
@@ -185,8 +196,6 @@ Když tohle všechno vím, tak na technika pak můžu vychrlit.
 - Potřebuji na samostatnou šavli modrou.
 - Potřebuji na samostatnou šavli rudou.
 - Potřebuji na samostatnou šavli zelenou.
-
-
 
 ## Trochu z terminologie
 
