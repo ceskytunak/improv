@@ -1,6 +1,19 @@
 # Osvětlení improvizačních představení
 
-![Improv Lights](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+![Improv Lights](https://img.shields.io/badge/Improv-Lights-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+## Ahoj osvětlovači!
+
+Vítejte v mých poznámkách k osvětlování improvizačních divadelních představení. 
+
+Postupně zde shraňují své vědění, jak správně osvětlit improvizační show. Poznámky ke konfiguraci DMX, nastavení software, odkazy na manuály a další. 
+
+- Základní principy osvětlení
+- Jak používat různé typy světel
+- Jak vytvářet různé nálady a atmosféry
+- Jak reagovat na nečekané situace
+
+## Nasvětlení scény
  
 Cílem nastavení scény je zajistit, aby na všechny bylo dobře vidět. Intenzita světla (vnímání z kabiny nahoře) by měla být taková, že dobře poznám knoflíky na košili. Ve slabé osvětlení zaniknou detaily a mimika v obličeji, s silném jsou unavené oči a detaily také nevyniknou, jelikož je to přepálené.
 
@@ -10,7 +23,7 @@ Světlem také dáváme focus na to, co je důležité, takže všichni a všech
 
 ## Osvětlovač je střihač a hráč
 
-Osvětlovač je také v roli střihače, takže je vždy připraven scénu poslat úplně do tmy, takže je celou dobu během představení rukama na pultu a je připraven okamžitě zasáhnout. Toto je důležité hlavně když dochází k obscénostem, k situacím které nejdou zahrát, když to fakt vygraduje a je jasné že to má skončit, atd.) Osvětlovač je hráč!
+Osvětlovač je také v roli střihače, takže je vždy připraven scénu poslat úplně do tmy, takže je celou dobu během představení rukama na pultu a je připraven okamžitě zasáhnout. Toto je důležité hlavně když dochází k obscénostem, k situacím které nejdou zahrát, když to fakt vygraduje a je jasné že to má skončit, atd. **Osvětlovač je hráč!**
 
 ## Co s sebou když jdu svíti?
 
@@ -33,21 +46,21 @@ S sebou na svícení je dobré si vzít navíc čelovku, propisku, papírovou le
 | Dimensions                     | (W × D × H) 200 mm × 140 mm × 200 mm |
 | Weight                         | 1.1 kg |
 
-### LED COB 2-in one Spot DMX 100W
+### Betopper LC001-H - LED COB 2-in one Spot DMX 100W
 
 | CH-1 | CH-2 | 
 | ---  | ---  | 
-| WARM WHITE | WHITE |
+| WARM WHITE | COLD WHITE |
 
 **Tech specs**
 | Feat | Value |
 | --- | --- |
-| LEDs                           | 2x50W WW W |
+| LEDs                           | 2x50W WW WC |
 | Number of DMX channels         | 2 |
 | Operating supply voltage       | AC 230 V , 50 Hz |
-| Power consumption              | 100 W |
+| Power consumption              | 170 W |
 | Dimensions                     | (W × D × H) 180 mm × 220 mm × 180 mm |
-| Weight                         | 2.1 kg |
+| Weight                         | 1.5 kg |
 
 ### Starville PAR 36
 
@@ -89,19 +102,27 @@ Aktuálně v beta verzi, zatím stabilní, pár bugů. Ale funguje skvěle. Zkou
 
 To co potřebuji je namapovat až 5 LED světel, naprogramovat si je do scén a ty pak mít možnost na jednu šavli per scéna vytahovat a shazovat.
 
+![QLC5 DMX View](https://github.com/ceskytunak/improv/blob/main/assets/images/qlc-dmx-view.png)
+
 #### Fixtures
-V kartě Fixtures si namapuju světla.
+V kartě *Fixtures* si namapuju světla.
  - Světlo PAR 36 LED RGB mi dobře funguje profil **Starville -> LED PAR56**.
  - Světlo 144W RGBW mi dobře funguje profil **Generic -> Generic RGBW**.
  - Světlo BETOPPER - LC001-H COB mi dobře funguje profil **Botex -> DSP-405 - 2 Channel**.
 
+ ![QLC5 Fixtures](https://github.com/ceskytunak/improv/blob/main/assets/images/qlc-fixtures.png)
+
 #### Scenes
-V kartě Simple Desk nastavím jednotlivé kanály tak jak chci ve scéně mít a vpravo nahoře kliknu na Dump on a new Scene. Scénu pojmenuji. Takto si nastavím scény, které potřebuji.
+V kartě *Simple Desk* nastavím jednotlivé kanály tak jak chci ve scéně mít a vpravo nahoře kliknu na Dump on a new Scene. Scénu pojmenuji. Takto si nastavím scény, které potřebuji.
+
+![QLC5 Simple Desk](https://github.com/ceskytunak/improv/blob/main/assets/images/qlc-simple-desk.png)
 
 #### Virtual Console
-V kartě Virtual Console si tlačítkem + (Add a new widget) přidám Slider na plochu. 
+V kartě *Virtual Console* si tlačítkem + (Add a new widget) přidám Slider na plochu. 
 Překliknu se do vertikálního tabu Function Manager a přetáhnu scénu na vytvořený slider. Toto opakuji dokud nemám vše nastaveno jak potřebuji.
-Hodit se bude i nějaké CUE na Blackout a ShutDown.
+Hodit se bude i nějaké *CUE* na *Blackout* a *ShutDown*.
+
+![QLC5 Virtual Console](https://github.com/ceskytunak/improv/blob/main/assets/images/qlc-virtual-console.png)
 
 #### Dojmy z QLC 5 Beta3
 Je to hodně beta verze, ale oproti v4 je to mega rozdíl.  
