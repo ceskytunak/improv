@@ -30,8 +30,24 @@ S sebou na svícení je dobré si vzít navíc čelovku, propisku, papírovou le
 | Number of DMX channels         | 4 |
 | Operating supply voltage       | AC 230 V , 50 Hz |
 | Power consumption              | 144 W |
-| Dimensions                     | (W × D × H) 235 mm × 165 mm × 240 mm |
+| Dimensions                     | (W × D × H) 200 mm × 140 mm × 200 mm |
 | Weight                         | 1.1 kg |
+
+### LED COB 2-in one Spot DMX 100W
+
+| CH-1 | CH-2 | 
+| ---  | ---  | 
+| WHITE  | WARM WHITE |
+
+**Tech specs**
+| Feat | Value |
+| --- | --- |
+| LEDs                           | 2x50W W WW |
+| Number of DMX channels         | 2 |
+| Operating supply voltage       | AC 230 V , 50 Hz |
+| Power consumption              | 100 W |
+| Dimensions                     | (W × D × H) 180 mm × 220 mm × 180 mm |
+| Weight                         | 2.1 kg |
 
 ### Starville PAR 36
 
