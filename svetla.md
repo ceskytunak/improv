@@ -25,15 +25,15 @@ Světlem také dáváme focus na to, co je důležité, takže všichni a všech
 
 Nejzákladnějším cílem jevištního osvětlení je osvětlit účinkující, kulisy a rekvizity, aby publikum jasně vidělo vše, co má na jevišti vidět. Nedostatečné osvětlení může ubrat produkci. Například tlumené světlo znesnadní průchod výrazům obličeje herců – dokonce i divákům sedícím blízko jeviště. Pro lidi na jevišti je také důležité osvětlení, aby viděli, kam jdou, a viděli ostatní tanečníky, herce nebo hudebníky.
 
-## Zvýraznění různých míst
+### Zvýraznění různých míst
 
 Osvětlení scény nám také může pomoci nasměrovat oči diváků tam, kam by měli jít. V nejdramatičtějších případech může být většina jeviště tmavá a na ohnisko svítí pouze jeden reflektor. V mnoha jiných případech může osvětlovač nasvbítít celou scénu washem, které pokryje širokou oblast a funguje jako základní vrstva světla. Poté lze pomocí akcentování nasměrovat pozornost publika k určité oblasti, jako je řečník v popředí.
 
-## Nastavení scény
+### Nastavení scény
 
 Osvětlení nám také může pomoci vytvořit vizuál, který chcete ve scéně. Můžete použít pohybující se světlo, aby to vypadalo, jako by vycházelo slunce, nebo potemnět jeviště, když herec v místnosti přepne vypínačem rekvizitového světla. Můžeme rozblikat modrá světla když jedou majáky nebo červená když hoří oheň u táboráku.
 
-## Ovládejte náladu
+### Nálada
 
 Osvětlení scény může mít také velký vliv na náladu. Cílem je sladit osvětlení s obsahem show, aby se v publiku povzbudily ty správné emoce. To může znamenat jemnou, teplou záři pro veselou scénu ve hře nebo tlumené, chladné odstíny pro smutné prostředí. Některé barvy jsou spojeny s různými náladami. Například modrá je často spojována se smutkem a červená s intenzivními pocity, jako je láska nebo agrese.
 
