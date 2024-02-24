@@ -127,7 +127,7 @@ Hodit se bude i nějaké *CUE* na *Blackout* a *ShutDown*.
 #### Dojmy z QLC 5 Beta3
 Je to hodně beta verze, ale oproti v4 je to mega rozdíl.  
 
-## Nastavení světelného pultu (Eurolite, Work 2412) - svícení v kamenných divadlech s DIMMERY
+## Nastavení světelného pultu (Eurolite, Work 2412) - svícení v kamenných divadlech s DIMMERY - tato část vychází ze svícení v Divadle Bez Hranic
 
 **Nezapomenout, že se žárovkami je potřeba zacházet opatrně - žádné rychlé přechody a změny plynule.**
 
@@ -163,6 +163,30 @@ Intenzitu nastavování šavlí z horní řady pultu se snažím držet pod maxi
 Po uložení nastavení scény, kde nějaké světlo svítí na 80%, tak pak při použití faderů ze spodní řady můžu jít až na 100% výchylky faderu, jelikož ta reprezentuje oněch 80% nastavené hodnoty. Takže během představení již nemusím myslet na to, zda nějaký reflektor nepřesvicuji.  
 
 Svetla jsou řízena stmívači a ve světlech jsou žárovky, někdy až 1000W. Světla tedy rozsvěcuji plynule a s citem, žádné prudké pohyby.
+
+## Svícení v Divadle D21
+
+Osvětlení v Divadle D21 je vybudováno velmi modulárně a lze zde vymyslet neskutečné množství kombinací. Jak polohy světel, tak barev a ostření. To ale může člověka zaskočit, jelikož v tomto divadle si pult neprogramujeme sami, ale máme k dispozici technika, který to podle našich potřeb celé nakonfiguruje a my pak jen přes DMX Controller ovládáme nastavené Presety.
+
+Když mám svítit, tak ještě než jdu do divadla, rozmýšlím jak to bude celé osvětlené, protože pak přijde technik, zeptá se jak to chceme a vyžblebtneme "eeeee, no nějak asi jako světlo?"
+
+Dost pomáhá předem, nebo během prvotních příprav představení zjišťovat, jak to bude celé rozestavěné. Kde bude muzika? Kde budou stolečky s židlemi pro herce? Kde bude mít konferenciér svůj plac? Kde se bude hrát? Bude to uprostřed scény, nebo trochu vyosené doprava, protože vlevo je muzika a konferenciér? Budeme tahat rozumy z diváků a budeme si chtít přisvítit na publikum?
+
+Když tohle všechno vím, tak na technika pak můžu vychrlit.
+
+### Např. pro představení "To jsem měl říct já"
+- Potřebuji na samostatnou šavli spot na stoleček 1 u kterého sedí herci.
+- Potřebuji na samostatnou šavli spot na stoleček 2 u kterého sedí herci.
+- Potřebuji na samostatnou šavli spot na stůl u kterého sedí/stojí moderátor.
+- Potřebuji na samostatnou šavli trochu rozostřený spot na místo, kde stojí kapela.
+- Potřebuji na samostatnou šavli rozsvítit celou scénu, washe, spoty, všechno.
+- Potřebuji na samostatnou šavli rozsvítit přední část hracího prostoru, takže řekněme střed a trochu doprava.
+- Potřebuji na samostatnou šavli rozsvítit přední část hracího prostoru v užším kuželu, řekněme pro standup.
+- Potřebuji na samostatnou šavli modrou.
+- Potřebuji na samostatnou šavli rudou.
+- Potřebuji na samostatnou šavli zelenou.
+
+
 
 ## Trochu z terminologie
 
