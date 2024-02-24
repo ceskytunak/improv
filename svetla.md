@@ -14,6 +14,36 @@ Osvětlovač je také v roli střihače, takže je vždy připraven scénu posla
 
 S sebou na svícení je dobré si vzít navíc čelovku, propisku, papírovou lepící pásku a papír.
 
+## Specifikace světel
+### Starville PAR 36
+
+**DMX mode** - Set DIP switch 8 to ‘OFF’ and at least one of the other DIP switches to ‘ON’. The channel assign‐
+ment is shown in the overview
+
+| CH-1 | CH-2 | CH-3 | CH-4 | CH-5 |
+| ---  | ---  | ---  | ---  | ---  |
+| MODE | RED  |GREEN | BLUE |Speed |
+|**0 - 63** = RGB Control | **0 - 255** = DIM | **0 - 255** = DIM | **0 - 255** = DIM | ./. |
+| **64 - 127** = 7 Colour fades <br> **128 - 191** = 7 Colour changes | ./. | ./. | ./. | **11 - 100** = high to low <br> **151 - 255** = Speed control by the device, via music or controller |
+
+You can set the DMX channel in a range of 1 to 123 via the DIP switches 1 to 7. DIP switch 1 is
+the first channel. Configure the desired channel using the DIP switches, whose channel num‐
+bers add up then:
+
+|DIP            | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---            |---|---|---|---|---|---|---|
+|Channel number | 1 | 2 | 4 | 8 | 16| 32| 64|
+
+**Tech specs**
+| | |
+| --- | --- |
+| LEDs | 61 × high power (21 × red, 19 × green, 21 × blue) |
+| Number of DMX channels         | 5 |
+| Operating supply voltage       | AC 230 V , 50 Hz |
+| Power consumption              | 7 W |
+| Dimensions                     | (W × D × H) 235 mm × 165 mm × 240 mm |
+| Weight                         | 1.2 kg |
+
 ## Nastavení světelného pultu (Eurolite, Work 2412)
 
 Vezměte si prosím k srdci, že se žárovkami je potřeba zacházet opatrně - žádné rychlé přechody a změny plynule.
@@ -66,3 +96,5 @@ Svetla jsou řízena stmívači a ve světlech jsou žárovky, někdy až 1000W.
 -   plán - (třetina jeviště za oponou)    
 -   forbína - prostor před oponou    
 -   pozadí - zadní stěna jeviště
+
+
