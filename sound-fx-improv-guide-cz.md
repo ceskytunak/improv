@@ -28,6 +28,21 @@ Pokud je na představení i hudebník, např. s klávesami, pak by hudebník mě
 ## Kooperace s osvětlovačem
 SFX týpek a osvětlovač by měli být blízko sebe aby mohli koordinovat své akce. Např. začátky scén ze tmy a pak až světlo. Naopak konce začít hudbou a jít přes tmu. Zvuky policejní sirény či bouřky lze doprovodit blikáním modré a podobně.
 
+## Intro hudba
+
+Optimistická, veselá, pozitivní hudba - zatímco diváci usedají do sedadel a čekají na začátek představení, hraje podkresová hudba.
+
+## Outro hudba
+
+hudební motiv, který hraje na konci představení. 
+
+## Mezi scénami
+
+svižná
+
+## Tematická hudba
+Tematické longformy nebo tematické improshow mohou mít ústřední hudební profil. Např. pro Fantazy impro můžou být připraveny celé tematizované banky, střejně tak western, Tarantino, etc. 
+
 ## Připojení a nastavení techniky
 
 ## Software pro SFX
@@ -39,6 +54,8 @@ SFX týpek a osvětlovač by měli být blízko sebe aby mohli koordinovat své 
 ## Licencování hudby v impru
 
 ## Zdroje free zvuků a hudby
+
+
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
