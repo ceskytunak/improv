@@ -16,7 +16,23 @@ Osvětlovač je také v roli střihače, takže je vždy připraven scénu posla
 
 S sebou na svícení je dobré si vzít navíc čelovku, propisku, papírovou lepící pásku a papír.
 
-## Specifikace světel
+## Specifikace světel ve výbavě
+### LED PAR RGBW 4-in one Washe DMX 144W
+
+| CH-1 | CH-2 | CH-3 | CH-4 |
+| ---  | ---  | ---  | ---  |
+| RED  |GREEN | BLUE | WHITE|
+
+**Tech specs**
+| Feat | Value |
+| --- | --- |
+| LEDs                           | 12x12W RGBW |
+| Number of DMX channels         | 4 |
+| Operating supply voltage       | AC 230 V , 50 Hz |
+| Power consumption              | 144 W |
+| Dimensions                     | (W × D × H) 235 mm × 165 mm × 240 mm |
+| Weight                         | 1.1 kg |
+
 ### Starville PAR 36
 
 **DMX mode** - Set DIP switch 8 to ‘OFF’ and at least one of the other DIP switches to ‘ON’. The channel assign‐
@@ -37,7 +53,7 @@ bers add up then:
 |Channel number | 1 | 2 | 4 | 8 | 16| 32| 64|
 
 **Tech specs**
-| | |
+| Feat | Value |
 | --- | --- |
 | LEDs | 61 × high power (21 × red, 19 × green, 21 × blue) |
 | Number of DMX channels         | 5 |
