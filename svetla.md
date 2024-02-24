@@ -83,18 +83,43 @@ Svetla jsou řízena stmívači a ve světlech jsou žárovky, někdy až 1000W.
 
 ## Trochu z terminologie
 
--   světla 
-    -   washe - svítí velkou plochu
-    -   spoty/boďáky - mají užší kužel světla
-    -   profilovací reflektory
-    -   štychy (trace light) - ručně ovládané
-    -   a další specifická světla (vany, hlavy, scany)
--   nože (stavitelná stínidla na upravení tvaru osvětlované plochy)
--   šavle / fader - posuvný potenciometr na  osvětlovacím/mixážním pultu    
--   stmívač/dimmer - zařízení pro regulaci intenzity světla    
--   DMX - komunikační protokol skrze který se ovládají světla na dálku    
--   plán - (třetina jeviště za oponou)    
--   forbína - prostor před oponou    
--   pozadí - zadní stěna jeviště
+- DMX: Digitální multiplex, protokol používaný k ovládání svítidel.
+- DMX kabel: Kabel používaný k přenosu DMX signálů mezi osvětlovací konzolou nebo softwarem a svítidlem.
+- DMX adresa: Jedinečný identifikátor přiřazený každému DMX zařízení, který se používá k ovládání jednotlivých parametrů zařízení.
+- DMX Universe: Skupina DMX adres používaných k ovládání více zařízení dohromady.
 
+- Kanál: Jediný adresovatelný parametr na DMX zařízení, jako je barva, intenzita nebo poloha.
+- Hodnota: Číslo přiřazené kanálu DMX mezi 0 a 255, používané k ovládání parametru spojeného s tímto kanálem.
+- Dimmer: Svítidlo používané k ovládání jasu tradičních žárovek nebo halogenových světel.
 
+- Svítidlo: Osvětlovací zařízení, které lze ovládat pomocí DMX, jako je pohyblivé světlo, měnič barev nebo LED svítidlo.
+- Svítidla
+    -   Washe - svítí velkou plochu, vytváří široký, měkký paprsek světla.
+    -   Spoty/boďáky - mají užší kužel světla.
+    -   Profilovací reflektory
+    -   Štychy (trace light) - ručně ovládané
+    -   LED: Typ svítidla, které využívá světelné diody (LED) k vytvoření barevného nebo bílého světla.
+    -   Další specifická světla (vany, hlavy, scany)
+
+- Míchání barev: Proces kombinování různých barevných světelných zdrojů k vytvoření požadované barvy.
+- Gobo: Vzor nebo obraz, který je promítán svítidlem, obvykle vytvořený promítáním světla přes tenkou kovovou nebo skleněnou desku s vyleptaným vzorem.
+
+- Pan: Horizontální pohyb pohybujícího se světla.
+- Tilt: Vertikální pohyb pohybujícího se světla.
+- Focus: Ostrost nebo jasnost paprsku svítidla.
+- Úhel paprsku: Rozpětí paprsku svítidla.
+
+- Cue: Konkrétní stav osvětlení nebo efekt, který je naprogramován do osvětlovací konzole nebo softwaru.
+- Fade: Postupná změna intenzity světla, obvykle používaná k přechodu mezi různými podněty nebo k vytvoření pomalého nárůstu intenzity ve scéně.
+- Chase: Sekvence tág nebo efektů, které se pohybují po scéně v určitém vzoru nebo sekvenci.
+- Blackout: Tlačítko, které zhasne všechna světla v osvětlovacím zařízení.
+- Stroboskop: Světelný efekt, který vytváří rychlé záblesky světla o vysoké frekvenci.
+- Dimmer Curve: Rychlost, kterou stmívač slábne z jedné úrovně intenzity na druhou.
+
+- DMX Terminátor: Zařízení používané ke správnému ukončení DMX signálu na konci DMX řetězce, aby se zabránilo odrazu signálu a rušení.
+- Nože: (stavitelná stínidla na upravení tvaru osvětlované plochy)
+- Šavle / fader: posuvný potenciometr na osvětlovacím/mixážním pultu
+
+- Plán - (třetina jeviště za oponou)    
+- Forbína - prostor před oponou    
+- Pozadí - zadní stěna jeviště
