@@ -1,4 +1,6 @@
 # Osvětlení improvizačních představení
+
+![Improv Lights](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
  
 Cílem nastavení scény je zajistit, aby na všechny bylo dobře vidět. Intenzita světla (vnímání z kabiny nahoře) by měla být taková, že dobře poznám knoflíky na košili. Ve slabé osvětlení zaniknou detaily a mimika v obličeji, s silném jsou unavené oči a detaily také nevyniknou, jelikož je to přepálené.
 
@@ -123,3 +125,13 @@ Svetla jsou řízena stmívači a ve světlech jsou žárovky, někdy až 1000W.
 - Plán - (třetina jeviště za oponou)    
 - Forbína - prostor před oponou    
 - Pozadí - zadní stěna jeviště
+
+# License
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+Toto dílo je licencováno pod 
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
