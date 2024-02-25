@@ -2,7 +2,7 @@
 
 ![Improv Material](https://img.shields.io/badge/Improv-Material-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-## Pozitivní emoce:
+## Pozitivní emoce
 
 - **Radost:** Pocit štěstí, uspokojení a zábavy.<br>
 Příklady: Veselí, potěšení, nadšení, euforie, rozkoš, extáze.
@@ -15,7 +15,7 @@ Příklady: Veselí, potěšení, nadšení, euforie, rozkoš, extáze.
 - **Vděčnost:** Pocit vděčnosti za to, co máme.<br>
     Příklady: Vděčnost, uznání, pokora, úcta.
 
-## Negativní emoce:
+## Negativní emoce
 
 - **Strach:** Pocit úzkosti a obavy z hrozícího nebezpečí.<br>
     Příklady: Úzkost, panika, hrůza, obava, děs, leknutí.
@@ -28,7 +28,7 @@ Příklady: Veselí, potěšení, nadšení, euforie, rozkoš, extáze.
 - **Strach:** Pocit neklidu a nejistoty.<br>
     Příklady: Úzkost, nervozita, napětí, stres, obavy.
 
-## Neutrální emoce:
+## Neutrální emoce
 
 - **Překvapení:** Pocit náhlého úžasu a zmatku.<br>
     Příklady: Zaskočení, úžas, ohromení, zmatení.
@@ -37,7 +37,7 @@ Příklady: Veselí, potěšení, nadšení, euforie, rozkoš, extáze.
 - **Nuda:** Pocit nezájmu a apatie.<br>
     Příklady: Otrávenost, lhostejnost, únava, vyčerpání.
 
-## Další emoce:
+## Další emoce
 
 - **Pocit viny:** Pocit lítosti a zodpovědnosti za špatný skutek.
 - **Stud:** Pocit rozpaků a zahanbení.
@@ -58,7 +58,7 @@ Emoce se mohou měnit v čase v závislosti na situaci.
 - [https://vas-psychoterapeut.cz/seznamEmoci.html](https://vas-psychoterapeut.cz/seznamEmoci.html)
 - [https://medium.seznam.cz/clanek/lukas-eder-co-se-skryva-za-emocemi-ktere-hybou-lidskym-zivotem-35989](https://medium.seznam.cz/clanek/lukas-eder-co-se-skryva-za-emocemi-ktere-hybou-lidskym-zivotem-35989)
 
-# License
+## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Toto dílo je licencováno pod 
