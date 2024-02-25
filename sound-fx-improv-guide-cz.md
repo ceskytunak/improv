@@ -55,7 +55,12 @@ Tematické longformy nebo tematické improshow mohou mít ústřední hudební p
 
 ## Zdroje free zvuků a hudby
 
-
+- [https://gamesounds.xyz/](https://gamesounds.xyz/)
+- [https://freesound.org/](https://freesound.org/)
+- [https://app.soundstripe.com/royalty-free-music](https://app.soundstripe.com/royalty-free-music)
+- [https://freemusicarchive.org/home](https://freemusicarchive.org/home)
+- [https://www.bensound.com/free-music-for-videos](https://www.bensound.com/free-music-for-videos)
+- [https://blog.hootsuite.com/creative-commons-music-resources/](https://blog.hootsuite.com/creative-commons-music-resources/)
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
