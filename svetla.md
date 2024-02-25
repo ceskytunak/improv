@@ -213,6 +213,14 @@ Když tohle všechno vím, tak na technika pak můžu vychrlit.
 - Potřebuji na samostatnou šavli rudou.
 - Potřebuji na samostatnou šavli zelenou.
 
+## Jak stručně funguje DMX?
+Každé světlo má dva XLR konektory (jako na mikrofon), jedon pro DMX IN, jeden pro DMX OUT. Ta světla se řetězí a každé světlo opakuje DMX signál, který mu přijde. Ten DMX signál má až 512 kanálů a tomu se říká universe. Každé světlo v DMX universe má nastavenou nějakou počáteční adresu (kanál) a od té pak poslouchá podle počtu kanálů, které umí ovládat. Na jednom konci DMX kabelu je připojený světelný mixážní pult nebo UART převodním z USB na DMX.
+Když mám zapojené např. LED PAR světlo, co má RGB, tak to první bude poslouchat na třeba kanálu 1, kde bude mít rovnou Red, na kanálu 2 Green a na kanálu 3 Blue. Když tam pak za něj připojim velké COB světlo, které má dva kanály Warm White a Cold White, tak jeho starotvací channel bude 4 (ty tři předchozí používá RGB světlo), kde zároven bude Warm White a dále bude naslouchat na kanálu 5, kde bude Cold White.
+Takhle můžu nastavit až těch 512 kanálů, což vyjde až na cca 100 samostatných světel (což prostě nikdy nemáem a jeden DMX universe do divadla stačí).
+Vzhledem k tomu, že každé světlo opakuje celý DMX signál, pak můžou třeba 2 světla mít stejnou konfiguraci počátečního kanálu a díky tomu se pak na jeden signál chovají identicky. nemusí být zapojeny vedle sebe, mohou se nacházet kdykoliv a když na jejich kanaálu je vysílána změna, tak na to světlo reaguje.
+Signál který světlo přijámí v rámci DMX kanálu pracuje je v rozsahu 0 až 255, což reprezentuje škálu 0% až 100% intenzity.
+U dlouhých sestav světel je vhodné umístit na konec řetězu DMX Terminátor, který zajišťuje, že se do signálové cesty nedostává šum. U krátkých instalací to však není potřeba.
+
 ## Trochu z terminologie
 
 - DMX: Digitální multiplex, protokol používaný k ovládání svítidel.
