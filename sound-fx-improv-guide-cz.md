@@ -1,6 +1,6 @@
 # Sound FX v improvizaci
 
-![Improv SoundFX](https://img.shields.io/badge/Improv-Sound-FX-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+![Improv SoundFX](https://img.shields.io/badge/Improv-SoundFX-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Sound FX guy jako neviditelný hráč
 
