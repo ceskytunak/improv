@@ -214,12 +214,20 @@ Když tohle všechno vím, tak na technika pak můžu vychrlit.
 - Potřebuji na samostatnou šavli zelenou.
 
 ## Jak stručně funguje DMX?
-Každé světlo má dva XLR konektory (jako na mikrofon), jedon pro DMX IN, jeden pro DMX OUT. Ta světla se řetězí a každé světlo opakuje DMX signál, který mu přijde. Ten DMX signál má až 512 kanálů a tomu se říká universe. Každé světlo v DMX universe má nastavenou nějakou počáteční adresu (kanál) a od té pak poslouchá podle počtu kanálů, které umí ovládat. Na jednom konci DMX kabelu je připojený světelný mixážní pult nebo UART převodním z USB na DMX.
-Když mám zapojené např. LED PAR světlo, co má RGB, tak to první bude poslouchat na třeba kanálu 1, kde bude mít rovnou Red, na kanálu 2 Green a na kanálu 3 Blue. Když tam pak za něj připojim velké COB světlo, které má dva kanály Warm White a Cold White, tak jeho starotvací channel bude 4 (ty tři předchozí používá RGB světlo), kde zároven bude Warm White a dále bude naslouchat na kanálu 5, kde bude Cold White.
-Takhle můžu nastavit až těch 512 kanálů, což vyjde až na cca 100 samostatných světel (což prostě nikdy nemáem a jeden DMX universe do divadla stačí).
-Vzhledem k tomu, že každé světlo opakuje celý DMX signál, pak můžou třeba 2 světla mít stejnou konfiguraci počátečního kanálu a díky tomu se pak na jeden signál chovají identicky. nemusí být zapojeny vedle sebe, mohou se nacházet kdykoliv a když na jejich kanaálu je vysílána změna, tak na to světlo reaguje.
-Signál který světlo přijámí v rámci DMX kanálu pracuje je v rozsahu 0 až 255, což reprezentuje škálu 0% až 100% intenzity.
-U dlouhých sestav světel je vhodné umístit na konec řetězu DMX Terminátor, který zajišťuje, že se do signálové cesty nedostává šum. U krátkých instalací to však není potřeba.
+
+**Každé světlo má dva XLR konektory (jako na mikrofon), jeden pro DMX IN a jeden pro DMX OUT.** Světla se řetězí a každé z nich opakuje DMX signál, který mu přijde. Tento DMX signál má až 512 kanálů, tzv. **universe**. Každé světlo v DMX universe má nastavenou **počáteční adresu (kanál)** a od té pak poslouchá podle počtu kanálů, které umí ovládat. Na jednom konci DMX kabelu je připojen **světelný mixážní pult** nebo **UART převodník z USB na DMX**.
+
+**Příklad:**
+
+Když mám zapojené **LED PAR světlo** s RGB, tak bude poslouchat na kanálu 1 (Red), kanálu 2 (Green) a kanálu 3 (Blue). Pokud za něj připojím **velké COB světlo** s kanály Warm White a Cold White, bude jeho startovní kanál 4 (první tři používá RGB světlo). Warm White bude na kanálu 4 a Cold White na kanálu 5.
+
+Tímto způsobem můžu nastavit až 512 kanálů, což umožňuje ovládat až cca 100 samostatných světel (což v praxi nikdy není potřeba a jeden DMX universe pro divadlo stačí).
+
+Vzhledem k tomu, že každé světlo opakuje celý DMX signál, můžou 2 světla mít stejnou konfiguraci počátečního kanálu a reagovat na jeden signál identicky. Nemusí být zapojeny vedle sebe, ale mohou se nacházet kdekoliv. Pokud je na jejich kanálu vyslána změna, světlo na ni zareaguje.
+
+**DMX signál** v rámci kanálu pracuje v rozsahu 0 až 255, což reprezentuje škálu 0% až 100% intenzity.
+
+**U dlouhých sestav světel** je vhodné umístit na konec řetězu **DMX terminátor**, který zajišťuje, že se do signálové cesty nedostává šum. U krátkých instalací to však není potřeba.
 
 ## Trochu z terminologie
 
