@@ -32,7 +32,7 @@ Držet reálné postavy, nestřiháme děj, pohled do očí je 80% dnešního tr
 ### Rozcvička
 - Začátek 8 minut na hudbu, uplně free, každý sám se svým tempem rozcvičuje. Vyžadovat, aby se hráči spolu nebavili a nerušili ostatní.
 - Rozcvička klasická, rozhýbání, rozmluvení, rýmování, sladění se.
-- Sedmičky
+- Všichni se intenzivně pohybují po prostoru na lvl wierdness 7 z 10, pak freeze na znamení, každý postupně řekne slovo nebo zvuk, který vyjadřuje emoci jeho postavy. Rozvolnění a lidem v nejbližším okolí se pohledem omluvím za svou divnost (něco jako když si zpíváte nejvíc falešně retardovanou písničku ve sprše, místo mikrofonu máte mýdlo, nekdo vás u toho zaujatě pozoruje a vy si toho všimnete). Repeat.
 
 ### Hlavní blok - 22.02.2024
 **Freeformy s doprovodem hudby**
@@ -51,6 +51,11 @@ Držet reálné postavy, nestřiháme děj, pohled do očí je 80% dnešního tr
 - sidequest - pokračování s questy od ostatních
 - můj tajný vztah (opakování)
 - lež
+- tvrdá akce
+
+**Zvědomit na tréninku**
+- postavi reagují na zvuky
+- herci reagují na hudbu
 
 ### Techniky
 
@@ -77,6 +82,9 @@ Moje postava má nějaký postranní záměr, který se snaží skrze různé na
 Například můj postranní úmysl je být vnímán jako silák. Do scény tedy přináší narážky jako “včera jsme zvedl 150 kilo na bench”, nebo “před snídaní jsem udělal 200 kliků a ani jsem se nezadýchal”, nebo může partnerovi nabízet, že mu např sám odstěhuje gauč nebo almaru, či přesune auto. 
 
 V případě charakterových rysů to pak může být např snaha být manipulativní a být vnímán jako chudinka, aby mě ostatní opečovávali, tedy získat si pozornost. Postava pak může např.  “Je, ty seš tak silný, to já bych určitě nedokázal unést.” Nebo: “Ty jsi tak chytrý, kéž bych byl chytrý jako ty.” Nebo taky: “Kdybych tak jen na to měl, tak bych…”
+
+#### Tvrdá akce
+Scéna začíná na akční hudbu, jeden herec velkými gesty něco ztvárňuje, přehnaně, v lehké extázi či nadšení (sing like nobody is listening), v nelepším (klidně třeba po 30 sekundách) do toho vstoupí druhá postava, chvíli pozoruje a užívá si co se děje na scéně. Aktivní postava to zaregistruje a hrají očima výměnu emocí a energie. Scéna pokačuje yes and nebo yes but, tedy např. "Že jsi dobrý tanečník vím už od našeho maturitního plesu (vztahy;-), ale že se tajně připravuješ na Star Dance, to jsem fakt netušil."
 
 ## Otázky na feedback
 - Co se ti workshopu líbilo nejvíce?
