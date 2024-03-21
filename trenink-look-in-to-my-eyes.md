@@ -53,6 +53,16 @@ Držet reálné postavy, nestřiháme děj, pohled do očí je 80% dnešního tr
 - lež
 - tvrdá akce
 
+### Hlavní blom 7.3.
+- duoshow
+- opakování technik
+- střihy přeš židle
+- 
+
+- rozcvička - digidy dance
+- jsem šteně
+- asociace na druhou, dve skupiny
+
 **Zvědomit na tréninku**
 - postavi reagují na zvuky
 - herci reagují na hudbu
@@ -112,6 +122,33 @@ Scéna začíná na akční hudbu, jeden herec velkými gesty něco ztvárňuje,
 - přijde mi skvělé, že se snažíme být na jevišti přítomní, oproti snaze hrát.
 - dát si čas
 
+# Poznámky z 14.03.2024
+
+10 lidi na treninku
+
+## Skolni jidelna - 27 minut
+- zowie super emoce, krik a malej spratek se sluchátkama
+- pája skvělá scéna příprava na ředitele
+- nahlas (ne jako ta predchozi skupinka)
+- pája super, výborné emoce, uvěřitelná, změna, z nesnášim jí, terorizuje mě, do já s ní dneska mluvila a ona to má těžké
+
+## Cesky curling - 18 minut
+- rozchod, milostny trojuhelnik, 
+- obcas zidle vyhodit ze sceny
+- vic se hybat
+- nahlas
+- nemluvit bez hluku, když hraje hudba, nesnažit se jako že mluvit, ale jen na sebe koukat, nebo hrát rutinu, třeba rukama
+- muzete hrat i tri
+- hudba víc energetic
+- chybela rozcvicka na emoce
+
+## Nadraži na malem měste - 20 minut
+- dvě blbky super
+- vidlák ze školy
+- ne hrat vzadu
+- jsem raději štastná, než-li smutná
+
+
 ## TODO na příště
 - Vytvořit google form a od týmu získat náměty na side questy
 - Vyladit nastavení Sound Show, hlavně atmosferické soundy, postahovat z Free databáze, nebo zkusit namapovat další zdroj pro search.
@@ -170,6 +207,12 @@ Tělesné pocity nejsou emocemi, ale mají k nim úzký vztah -- určitý těles
 -   [žízeň](https://cs.wikipedia.org/wiki/%C5%BD%C3%ADze%C5%88 "Žízeň")
 -   pohlavní pud ([žádostivost](https://cs.wikipedia.org/wiki/Touha#Psychologie "Touha"), [orgasmus](https://cs.wikipedia.org/wiki/Orgasmus "Orgasmus"))
 
+## Feedback
+
+- vztahy
+- pohyb
+- nepřehrávat
+- ne
 
 
 # License
