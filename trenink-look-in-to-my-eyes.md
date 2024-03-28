@@ -149,6 +149,84 @@ Scéna začíná na akční hudbu, jeden herec velkými gesty něco ztvárňuje,
 - jsem raději štastná, než-li smutná
 
 
+
+# Trénink 21.03.2024 - příprava na trénink
+- téma Prehistorky
+- 11 lidí na tréninku
+- 
+
+
+## Prehistorka o založení města
+- zowie, fíša
+- nemluvit hned od začátku přes hudbu
+- při střihu židlí dávat židli dopředu před hrající diváky
+- mluvit až později, až se stihne hudba rozeznít
+- více pohybu
+- Prehistorka je příběh, který se odehrál v minulosti
+- obava, že se bude hrát v konkrétních historických dobách / nejdeme po konkrétních historických dobách a událostech
+- vztahy
+- začínají dva, další dva jsou ready vstupovat jako noční postavy, poslední dva jsou optional a začínajíé další scénu
+- 12 minut
+- vztahy hned od začátku, super
+- 
+
+## Prehistroka o prvním vyhození z práce
+- start 19:06
+- ondra, formič
+-  jančo, počkej na hudbu, Frančesco
+- obelix, více pohybu
+- janča nahlas
+- dřívěvější střihy / obelix / honza
+- 21 minut 
+- mělo se to střihnout před pomstou
+-
+
+## Prehistorka o vynalezení manželství
+- Pája a Bára
+- super start jen očima
+- bára pojmenování toho co vidí, super
+- pája nahlas...
+- vztah, jaký máte vztah?
+- super reakce na hudbní střih
+- kluci, jakej máte vztah?
+- vztah!!!!
+- Pája dobrá!!!! už tady 5 minut mluvíme o otočení kohoutu
+- Kuba mega vtipnej
+- Džordž, víc klidu
+- Bára super, keep on track!!
+- Pája Bára super že jste otevřeli a zavřeli scénu
+-21 minut
+
+## Prehistorka o zániku ptáků
+- Honza, čekat na hudbu, nezapomenout na pohled do očí
+- Postavy nereagují na obsah hudby!
+- Fíša, super pohled na Zuzkum hra s prstýnkem, přínos problému.
+- nebojte se odstranit židle když s nimi nehrajete pži změně scény
+- Zuzka skvělá, já si na tebe myslim už od školky jak jsi do mě štouchal. SKvělý Vztah z historie.
+- Spoustu peněz když můžeš mít pustenou tu vodu, vzaní zvuku do hry, Janča.
+- Zuzka výborný vstup na scénu v pramici
+- Honza skvělý odchod ze scény v pramici po Zuzce
+- 19 minut
+
+## Prehistorka o tom, jak lidé přišli na to, že se houby dají jíst
+- Zowie, Vojta
+- Vojta skvělé, říkáš mi to každé ráno, pěkné nastavení denní rutiny a vztahu.
+- Vzaní zvuku do hry, šampanské, jako každé ráno.
+- Bára, líbí se mi, jak jsi pozorovala Páju při taiči, zrcadlení.
+- Pája pojmenování Báry, ty si ze mě děláš srandu..  oohm, aaah.
+- Pája, super uklizení vedlejších postav k pařezu na cígo.
+- Bára/Zowie když sedí u pařezu, tak nemluvit, bere to focus.
+- Líbil by se mi výlet do Vojtovy hlavy, nějaký psychedelický tanec.
+- Pája super vzaní zvuku do hry: "příště radši chodte ve dne"
+- Zowie, Vojta, vyignorování několika zvůků. / oslí můstek dere se to zvíře ze mě ven.
+- Pája Vojta měli jste se políbit, to byl vrchol.
+- Super ukončení stejně jako začátek.
+- Hezká závěrečná hra se zvuky zvířat po pozření hub..
+- 24 minut
+
+### Trénovat splitscreen
+
+
 ## TODO na příště
 - Vytvořit google form a od týmu získat náměty na side questy
 - Vyladit nastavení Sound Show, hlavně atmosferické soundy, postahovat z Free databáze, nebo zkusit namapovat další zdroj pro search.
