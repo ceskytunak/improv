@@ -226,6 +226,88 @@ Scéna začíná na akční hudbu, jeden herec velkými gesty něco ztvárňuje,
 
 ### Trénovat splitscreen
 
+# Trenink 28.3.2024
+
+## Lovestorka - autobus na čas - 19:00
+- Pája, Kuba O. - Obe, Zowie
+- Postavy Marcelka a Tom
+- na začátku chybí pohledy do očí, hned hraní rekvizity autobusu
+- Kuba trochu nátlak na Páju
+- Kuba negování: ještě 15 minut
+- Prázdná scéna ve 2. minutě
+- Kuba - super vzaní do hry zvuky traktoru
+- Děda pryč ze scény? Obe
+- Opět prázdná scéna v 8 minutě
+- Zowie pěkně vzala do hry zvuky ambientu, scéna v nebi. Ale je trochu blbé si v 9 minutě longformy zabít postavu
+- Pája dobře návrat na scénu do reality po autonehodě, emoce
+- Opatrně s hraním na zemi
+- Opět prázdná scéna v 11 minutě
+- Prázdná scéna ve 13 minutě
+- Pája vztah k dědovi (obe), Pája vztah k přítelovi (kuba)
+- 16 minut ned scene andělé v nebi
+
+## Lovestorka pozdní příchod a kafíčko
+- Honza Fíša. a Janča + Formič - Bára
+- 19:29
+- skvělý dlouhý začátek
+- Katarína a šéf
+- skvělý začátek, stakes vysoko, vyhazov šéfa kvůli chybě podřízené
+- Mája , super blamin' šéfa že on mlže za to že janča nedodala závěrku
+- Honza Bára dobrej vztah, kontrast, super
+- nehci bejt impulzivní
+- Skvělý že si pamatujete jméno, 
+- Bára hláška -  na každého tady mám složku
+- Janča hláška - já mám hypotéku, mě nemůžou vyhodit
+- Janča na Báru - ty mě od pískoviště furt komanduješ
+- Opět vysoké stakes, neudám u finančního soudu a njá tě nenechám zabít
+- Bára - ty jsi spráchl do hazjzlu všechno co se mezi námi pěknýho stalo
+- Bára Formič - hezký vztah, dotyky
+- Janča - já tady nejsem za to placená abych chodila v čas
+- Mareček šéf
+- Funny tapnutí Janči od Fíši
+- 19:47 end scene - celkem 18 minut
+
+## Lovestorka - Velikonoční únos - 20:09
+
+- Džordž - Zuzka + Mari, Vojta
+- fishing opening game
+- miláčku, po deseti letech
+- jsem ráda že tě můj zadek ještě neomrzel
+- víš že můžeš chodit jenom doma
+- Mari a Vojta - kdo tuto rodinu vede? Vy mami.
+- Mari: že jsou ty Velikonoce, já tě pustí ze sklepa
+- Džordž zvláštní vstup na scénu ze stolu
+- Vaše problémy jsou větší než moje :-) - skvělá linka s problémy
+- Džordž - nepřebíhej scénu zbytečně
+- Vojta: Vyser se na obrazy, nebo ti jednu střihnu - skvělé vykreslení matky
+- Kamilka, Viliem
+- 20:26 - end schene, do sklepa!
+- 15 minut
+
+## Lovestorka - promarněná příležitost
+- Fíša - Naďa - Janča Pája
+- 20:32
+- Fíša skvělý výraz jako pejsek
+- Tinder scéna
+- Naďa super pojmenovávní: Já se vlbec nedivim, že si tam dáváte jinou fotku.
+- Jáchym a Izabela
+- kupony do mekdonaldu
+- Janča - dobrý střih s židlí
+- Majdinka
+- Janča je matka
+- Pája super pojmenování: Já se tě trochu bojim
+- Evelína
+- Má skrytej potenciál, hhm, hodně skrytej
+- Naďa: vostrá! - Nikdo tě nemá rád, jseš hnusnej, kdybys hrál na schovku, nikdo tě nehledá.
+- Fíša trochy vypadnutí z role retardíčka
+- Já nechci mít chlupatý děti, já si pořídim psa - Naďa
+- super čuchání k fíšovi
+- to je vůně rozchodu
+- Janča super míchání kafe - návrat postvy z prvního dílu
+- end scene 20:52 - 20 minut
+
+
+
 
 ## TODO na příště
 - Vytvořit google form a od týmu získat náměty na side questy
