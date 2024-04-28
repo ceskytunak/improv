@@ -12,23 +12,29 @@
 
 ## Cíle workshopu
 
+- Položit základy nové longformy.
+- Vypilovat longformové techniky střihu.
+- Vědomě pracovat s delší dějovou linkou.
+- Extrakce hlavních postav.
+- Práce se zvuky a světlem.
+
 Účastník workshopu:
-- chápe principy longforem, především ve vztahu k shortformám
-- zná rozdíly mezi strukturovanými a nestrukturovanými longformami
-- umí alespoň základně strukturovat děj na expozici, zápletku, vyvrcholení
-- umí základní techniky střihu v ději
-- umí extrahovat hlavní postavu a podporovat ji (hlavně u hromadných scén)
+- chápe principy longforem
+- umí střihat scénu
+- umí extrahovat hlavní postavu a podporovat ji
 - hraje jako infinite game (tedy jako kdyby scéna nikdy neměla skončit) *není myšleno že se hraje nekonečná 68 hodinová longforma, ale že herci neočekávají, že v jejich vypointovaném místě hra končí, jako např po "úspěšném" skeči v shortformě, nebo ve StandUpech (aha, teď jsem se asi měl zasmát). Cílem je budovat příběhy, které by se mohly skutečně stát a také nečekáme, že nám někdo náš život střihne. Be real.
 - hraje reálně, tedy tak, jak je nastavený ordinary world
 - investuje do vztahů
 - je zodpovědný za přehlednost děje
+- reaguje na zvuky, hudbu a světla
 
 ## Technické vybavení
 
 - Repráky (minimálně blootooth)
 - SFX (notebook / tablet)
-- optional - světla (2x 144W RGBW washe, COB 100W, 2x spoty) + světelný pult / k testování notebooku QLC+ a Korg nanoKontrol 2
-- optional - dixit kartičky na feedback
+- světla (2x 144W RGBW washe, COB 100W, 2x spoty) + světelný pult / k testování notebooku s QLC+ a Korg nanoKontrol 2
+- prodlužováky 2x 10metrů, 5x 5 metrů
+- Dixit kartičky na feedback
 
 ## Prostorové aranže
 
@@ -107,141 +113,243 @@ Extended framework pro tvorbu příběhů.
 
 # Podrobný harmonogram workshopu
 
-## Sobota dopoledne - já, prostor a longforma
+## Sobota dopoledne - intro 
 
 - **Začátek povídací** v kolečku. Nastavit rámec workshopu, obavy a očekávání, sepsat zakázku od účastníků. (15 minut.)
 
 - **Hudba a pohyb.** Bez nucených interakcí s ostatními. Focus na sebe, na pohyb, na tanec, na klid, na prostor. (15 minut). Hudba atmosferická, měnící se v dynamiku. 
 
+- **A man should know**
 
-- **TBD**
+Práce ve skupinkách po dvou, zanícené diskuse o tématech vychíázející z Man should know 1933. Cílem je rozpovídat se o obyčejném tématu a vést zanícenou diskusi o obyčených věcech. Postavy v longformách nemusí nutně jen posouvat děj a provádět velké akce, ale také rozkreslovat své záliby, vést obyčejný život.
 
-- **Coffee break** - 15 minut
+*Použitá témata*
+- ucinky skodlivosti alkoholu na lidsky organismus
+- rybareni
+- strileni a drzeni zbrani
+- prvni pomoc
+- vymena napouštěcí hadice u záchoda
+- chůze / hiking
+- judo / box
 
-- **TBD**
+- **Přípitek**
 
-- **Wrap up** - rekapitulace bloku, feedback (15 minut)
+Všichni stojí ve velkém kruhu, aka velkém karuselu a postupně jeden po jednom jde na scénu a pronese přípitek. Z jeho přednesu by mělo být zřejmé, kdo je publikum a jaký má k němu řečník vztah. Cílem je vykreslit prostředí/situaci jen ze způsobu promluvy k audienci.**
 
-- **Oběd**
+- **Představení cizince**
 
-## Sobota odpledne - hrajeme freeformu
+Všichni stojí ve velkém kruhu, aka velkém karuselu a postupně jeden po jednom jde na scénu a ten který bude následovat je na scéně také. Jsou tam tedy vždy dva. Jeden představuje druhého skupině, která jej nezná. Cílem je opět představit vztah ke skupině skrze představení nové postavy.
 
-- **Dynamic** - lehčí warm-up po obědě - chůze, dýchání, trochu haptiky. Hudba. Pohybujeme se po prostoru na svižnější hudbu. Vyhledáváme oční kontakty. Když se s někým zahledím do očí, jdeme přímo k sobě v mirror režimu a když k sobě přijdeme, dotkneme se navzájem, ale intenzivně, například se obejmeme, pohladíme po vlasech, plácneme oběma rukama, bumpneme zadkem, můžeme se i políbit, pokud to oba chtějí. Nemluvíme. (13 minut)
+- **Protest**
 
-- **Povídání o střihových technikách** - na rozdíl od strukturovaných longforem, kde je často střih prováděn přechodem mezi scénami (např motel 1. 2. a 3. dějství + tajemství). U freeforem má herec zodpovědnost za posun děje v čase a prostoru sám. K tomu je každý herec oprávněná a zodpovědný to udělat. Existují nějaké obecně známé techniky střihu, které je dobré si v týmu zvědomit a domluvit se na nich před hraním, nebo v rámci týmu. Nejznámější je přechod přes první plán se zvednutou rukou ala kleopatra a zahlášení změny, tedy např "o 2 roky dříve, nebo v bytě Honzy Janáčka". Další technikou je tma (zdůraznit roli osvětlovače). Zvuk (Spuštění hudby) a fadeout scény. Technika je "...to bylo tenkrát" -> skok do jiného časového světa.
+Práce ve skupinkách po cca 4 lidech. 5 minut čas na přípravu protestu ve skupinkách, pak postupně prezentace prostestu.
 
-  *Druhy střihů (výběr)*
-  - herecké
-    - přeběhnutí scény s rukama jako nůžkama
-    - vyběhnutí na forbínu s monologem
-    - vstup vypravěče - přidání informací, posun děje
-    - vstup vypravěče -> scéna na jiném místě - prostřih jinam
-    - změna pozice na scéně
-  - technické
-    - tma
-    - hudba
-    - opona
-    - přestavba scény
-    - změna kostýmu
- 
-  (25 minut)
+Následně opakování s tím rozdílem, že ostatní jsou již aktivní součástí scény a tvoří druhé prostředí, tedy kromě prostestujících na podiu také dav poslouchajících. Prostestující vedou dialog s diváky tím, že frázují / rozsekávají část svého protestu. Tedy v praxi prostestující řeknou či skandují část svého tématu, pak dají prostor divákům, ti například bučí či souhlasí, pak opět focus na prostedtující a tak dále.
 
-- **Cvičení - mi to střihni** - yes and cut. Dva hrají, dva jsou připraveni střihat. Krátká scéna ve stylu ano a. Další dva hráči mají zodpovědnost střihat. (30 minut)
+Cílem je zvědomit dvě prostředí a také aplikovat princip split screen, tedy při masových scénách udržovat focus na malé skupince hrajících.
 
-- **Dynamic** - Hráči do dvojic, rozestavět po prostoru. Jeden udělá gesto (může být i se slovem) a druhý na něj v kontrastu reaguje. Takže např jeden se zamračí a druhý se zatváří provinile. Takhle se prostřídají. (7 min)
+- **Intro do vědomého pracování s prostředími a jejich přepínání**
 
-- **TBD**
-  
-- **Coffe break** (15 minut) 
+Sezení v kruhu, povídání. Cílem je zvědomit prostředí, ve kterých se postavy budou pohybovat. Jednak kvůli srozumitelnosti pro diváka, jednak pro herce, aby snadno mohli střihat do známých a dobře definovaných prostředí. Focus na vybudování 2 - 3 well defined prostředí během scény.
 
-- **Jde se hrát - TBD** - 4 hráči, 2 židle na scéně, 2 židle na stranách. 1 hráč vyzve diváky aby dostal slovo (sousloví). To bude názvem nové divadelní hry. Světelný střih (tma); scéna začíná - 2 herci na scéně, hraje hudba, herci se na sebe otočí, a pomalu rozehrávají scénu. Je potřeba, aby divák relativně brzy pochopil, kde se nacházejí, kdo jsou (skrze vztahy) a co dělají. jde jen o vykreslení ordinary worldu. Střih. freeform budování zápletky - Ano A minimum, lze použít střihové techniky pro posun děje. Scénu vyeskalovat, uzavřít. Zbylí 2 hráči fungují jako aktivní vedlejší postavy, ale hlavně se zaměřují na střihy a na posunování děje. (30 min)
-- **feedback** (10 min)
+- **Hrajeme - Škola - nekvalita jídla**
 
-- **Jde se hrát - TBD** - 4 hráči, 2 židle na scéně, 2 židle na stranách. 1 hráč vyzve diváky aby dostal slovo (sousloví). To bude názvem nové divadelní hry. Světelný střih (tma); Scéna začíná uprostřed akce, například bitkou, přestřelkou, honičkou, ... prostě akcí, bez mluvení, nemáme postavy, nemáme vztahy, takže jen čistá akce. Klidně krátká, pár desítek sekund nebo minuta. Jsou zde všichni čtyři herci. Střih. Posun v čase zpět a pokračuje expozice a kresba postav již jen ve 2 postavách, další se objevují postuponě skrze střihy. Střihy v čase. Dovyprávění nebo dohrání do bylo po bitce. konec. Hráči, kteří aktivně nehrají hráči se hlavně se zaměřují na střihy a na posunování děje. (30 min)
-- **feedback** (10 min)
+Hlavní Prostředí: jídelna / kuchyně, ředitelna
 
-- **Jde se hrát - TBD** - 4 hráči, 2 židle na scéně, 2 židle na stranách. 1 hráč vyzve diváky aby dostal slovo (sousloví). To bude názvem nové divadelní hry. Světelný střih (tma); scéna začíná finální scénou, tedy např. pohřbem, svatbou, výhrou, zvolením prezidentem. Střih, posun v čase dozadu a postupné dovyprávění příběhu až do konce (původního začátku). Hráči, kteří nejsou zrovna ve scéně se hlavně zaměřují na střihy a na posunování děje. (30 min)
-- **feedback** (10 min)
-- **Wrap-up a konec sobotního bloku** (10 min)
+Vedlejší prostředí: kuřárna před školou, technická místnost, kabinet
 
-## Neděle dopoledne - my, longformy a kam dál
-- **mornign dynamic** (15 min)
+### Sobota dopo: After Coffe break session
 
-- **Povídání o strukturovaných longformách** (10 min)
+- **Hrajeme - High tech nádraží**
 
-- **Harold - principy** (10 min)
-- **Harold - hra** (40 min)
-- **Feedback na Harolda** (10 min)
+Prostředí definováno jako nádraží, které je nejmodernější, plně automatizované a má nejlepší služby. Takové nádraží, kam lidé jedou třeba se jen podívat, aniž by někam jeli.
 
-- **Armando - principy** (10 min)
-- **Armando - hra** (30 min)
-- **feedback na Armando** (10 min)
+Hlavní prostředí: nádražka/bistro, toalety, perón
 
-- **coffe break** (15 min)
+Vedlejší prostředí: taxi, garáže
 
-- **FADE - principy** (10min)
-- **FADE - hra** (60min)
-- **feedback na FADE** (10 min)
+Fungovalo taxi, kdy řidič ve předu splitscreenoval a trollil pasažéry, střídavě otevíral okénko a nadával na ostatní řidiče, versus hlavní postava se snažila sdělit své milé důležitou zprávu.
 
-- **rezerva a Q&As** (10 min)
-- **wrap-up a feedback na workshop** (15 min)
+Lessons learned: focus na vztahy a nefixovat se na prostředí; pokud hraju za jiným hráčem, musím dávat pozor, aby věděl o mých akcích, zde např vysoupení pasažéra za jízdy.
 
-- **oběd** 
-- **odjezd**
+- **Hrajeme - První český kosmodrom**
 
-# Obecné principy longformy a techniky užitečné k jejich rozvoji
+Prostředí definováno jako první český kosmodrom, program, který běží již 30 let a nic se nestalo. Utopené peníze z dotací.
 
-## Ano, a...
+Hlavní prostředí: návrhárna skafandrů, místnost s automatem na šampaňské, kancelář ředitele kosmodromu
 
-### Scéna dvou vět:
-Dva lidé stojí proti sobě. Jeden člověk začíná scénu větou. Druhý člověk poté reaguje větou, která říká "Ano, a..." a navazuje na první osobu. To pokračuje sem a tam o dvě řádky každý.
+Vedlejší prostředí: strojovna / hala s technikou
 
-### Práce s objekty:
-Dva lidé dostanou předmět, například klobouk nebo židli. Poté musí improvizovat scénu, ve které tento předmět použijí tolika různými způsoby, kolik je to možné.
+Fungovalo: automat na šampaňské, který vydal skleničku když to postava potřebovala. Skvěle fungovalo definování vztahu postav k prostředí, kdy od první scény bylo jasné, že jedniný kompetentní člověk je nadšený potenciální kosmonaut, ostatní naprosto neschopní, přezaměstnaní. Dobré vztahy, skvělá ambice kosmonauta skutečně odtáhnout český vesmírný program ke startu rakety. vztahové dilema a šplhání v kariéře přes milostné vztahy v práci.
 
-### Umístění:
-Dva lidé dostanou místo, například park nebo obchod s potravinami. Poté musí improvizovat scénu, která se odehrává na tomto místě.
+Lessons learned: opakující se vstupy s automatem na šampaňské, dobře fungovaly zvuky SFX, skvělé braní do hry. Perfektní ambice postav něčeho dosáhnout, vlastní agenda.
 
-## Aktivní naslouchání
-### Hra na slepou bábu:
-Jednomu člověku se zavážou oči a druhý ho vede po místnosti a popisuje mu, co vidí. Člověk se zavázanýma očima musí pak hádat, co se dotýká nebo cítí.
+- **Hrajeme - Cirkus**
 
-### Hra na ozvěnu:
-Jeden člověk řekne větu a druhý ji musí přesně zopakovat. To se několikrát opakuje.
+Hlavní prostředí: sloni, šapito s nataženým lanem
 
-### Následuj vůdce:
-Jeden vede druhého (nebo skupinu jako vláček) po místnosti a provádí různé pohyby a zvuky. Následovník se ho snaží co nejpřesněji následovat.
+Vedlejší prostředí: maringotka
 
-## Být přítomný
-### Freeze
-Herci začnou scénu jako obvykle. Kdykoli režisér může zakřičet "Freeze!" a Herci musí na místě zmrznout. Poté musí několik sekund držet svou pozici předtím, než budou pokračovat ve scéně.
+Fungovalo: intriky
 
-### Slow motion
-Herci začnou scénu jako obvykle. Kdykoli režisér může zakřičet "Slow motion!" a Herci musí zpomalit své pohyby a mluvení. Poté se pokračuje ve scéně ve zpomaleném pohybu několik sekund před návratem k normální rychlosti.
+-**Testování dummy konverzací**
+Prostředí zůstává cirkus.
 
-### Zrcadlo
-Dva stojí proti sobě. Jeden udělá pohyb nebo výraz a druhý se ho musí snažit napodobit co nejpřesněji. 
+1. Nudná scéna na lavičce hodinu před představením
+Hráči sedí na lavičce a dělají úplné prd.
+Lessons learned: nedělat dlouho nic je víc.
+Cílem vykreslení obyč dne a nudy v cirkusu
 
-## Chyba je kámoš
-### Hra na chyby
-Herci začnou scénu jako obvykle. Kdykoli režisér může zakřičet "Chyba!" a improvizátoři musí udělat záměrnou chybu, například říct špatné slovo nebo udělat špatnou akci. Poté musí pokračovat ve scéně, jako by se nic nestalo.
+2. Rutiná cesta autem se slonem ke zvěrolékaři
+5 lidí v autě, bavení se o ničem. Fungovalo otáčení se spolujezdce na zadní sedačky.
 
-### Selhání
-Herci se záměrně snaží v něčem selhat, například postavit věž z cihel nebo vyřešit puzzle. Cílem je poučit se z chyb a nakonec uspět.
+## Sobota odpoledne
 
-### Chaos is the new black
-Herci začnou scénu bez jasného cíle nebo směru. Jednoduše nechají scénu rozvinout se organicky, bez ohledu na to, jak chaotická nebo nesmyslná se stane.
+Intro do definování open scene end triggeru. Dopředu se domluví akce, kterou je ukončena úvodní scéna představení, po které nutně násleudje hudba nahoru a světla dolů. Genre/site specific trigger.
 
-## Have fun
+- **Hrajeme - Hororová chaloupka na samotě u lesa**
 
-### Dance with the devil
-Všichni si pustí hudbu a tančí po místnosti jako šílení. Mohou být tak blázniví a nezkrocení, jak chtějí.
+Hlavní prostředí: studna, světnice
 
-### Předstírání (v kůži někoho jiného)
-Herci se tváří jako něco jiného, jako zvířata, superhrdinové nebo mimozemšťané. Mohou dělat co chtějí, pokud se baví.
+Vedlejší prostředí: sklep, okolí chaloupky
 
-### Just be
-Herci se jednoduše baví spolu. Nestarají se o to, co říkají nebo dělají, prostě si užívají ten okamžik.
+Open scene end trigger: použití sekery
+
+Fungovalo: skvělé zvrácené prostředí, pan strýc, štosující se mrtvoly ve slepě. Konfrontace s postavou z venčí, paní z hygieny co se snaží zavést septik a rozporuje kvalitu prostředí, specificky plíseň. Na konci zvrat, kdy "hodná dcera" je nakonec hlavní postava tahající za nitky a zabíjející všechny postavy. Včetně otce.
+
+Lessons learned: open scene ukončit o něco dříve, nepopisovat proč je matka mrtvá, jen naznačit s střih, fungovala skrytá agenda dcery.
+
+- **Hrajeme - Farma nade mlejnem**
+
+Hlavní prostředí: stáj s kravami, světnice
+
+Vedlejší prostředí: psychiatrie, cizokrajný ostrov
+
+Open scene end trigger: 
+
+Fungovalo: vysvětlení zvláštního chování postavy, která zjevně nepřinášela konstruktivní vstupy od scény přes session u psychiatra
+
+Lessons learned: nesnažit se do scény dostat nové věci, respektovat normální svět, negování nastaveného světa nefunguje
+
+## Sobota odpo: After Coffee break session
+
+
+- **Hrajeme - Skautský tábor Firsthood**
+
+Tábor definovaná jako high tech tábor pro zlatou mládež
+
+Hlavní prostředí: stany, ohen, vlajka
+
+Vedlejší prostředí: --
+
+Open scene end trigger: zapálení ohně
+
+End scene end trigger: 
+
+Fungovalo: silné pouto mezi kluky, kamarádi. Snaha sbalit holky, pubertální štebětání o holkách. Fungovalo skrývání se před ostatními kvůli milostnému vztahu děcek.
+
+Lessons learned: 
+
+
+## Neděle dopo
+
+- **Solo rozcvička na hudbu**
+
+- **End scene trigger**
+
+Představení konceptu end scene triggeru, kdy je dopředu domluvené, čím začne end scene nebo přímo skončí představení. 
+
+
+- **Hrajeme - Tajemný klášter**
+
+Hlavní prostředí: 
+
+Vedlejší prostředí: zpovědnice
+
+Open scene end trigger: 
+
+End scene trigger: 
+
+Fungovalo: pokoušení k hříchu;
+
+Lessons learned: 
+
+- **Hrajeme - Temný chladný hrad**
+
+Hrad vykreslený jako studený, šedivý, zrada, má tři věže
+
+Hlavní prostředí: hladomorna, obydlí kata, komnata královny
+
+Vedlejší prostředí: podhradí, chlév s vepřem
+
+Open scene end trigger: zavření dvěří do hladomorny
+
+End scene trigger: poprava
+
+Fungovalo: blízkost hladomorny a obydlí kata, joky na "zase si taháš práci domů"; fungovala koncept vytáhnout bez%dáka a udělat z něj prince; nádherná endcene s veselou hudbou a serií poprav
+
+Lessons learned: from zero to hero
+
+- **Hrajeme - Nemocnice na kraji sudet**
+
+Podfinancovaná nemocnice, 30 let bez dotací, zaměstnává perosnál, co odpoví na inzerát.
+
+Hlavní prostředí: operační sál, ředitelna, technická místnost
+
+Vedlejší prostředí: traktorárna
+
+Open scene end trigger: odebrání krve
+
+End scene trigger: přestřihnutí šňúry
+
+Fungovalo: rituál s opíjením postav, změna statusu ředitele, kdy až je objektivně uplně mimo, tak má lepší výsledky než opravdivý doktor.
+
+Lessons learned: vztahy, moc focus na dělání věcí, málo vztahů; promarněné příležitosti na nabídnuté vztahy; duplikace postav
+
+### Neděle dopo: After Coffee break session
+
+- **Hrajeme - Vojenská základna 212 pluku**
+
+Zbrusu nová základna, částečně nevybalená technika
+
+Hlavní prostředí: štáb / místnost pro šarži; buzerplac
+
+Vedlejší prostředí: muniční sklad, kuchyně
+
+Open scene end trigger: vytažení zbraně
+
+End scene trigger: připnutí vyznamenání
+
+- **Hrajeme - Obyčejná vesnice Slunečná**
+
+Deně pohodová vesnice na Moravě, jedniná bez rybníka na návsi a problém jsou lufťáci z Brna
+
+Hlavní prostředí: zahrada, doma
+
+Vedlejší prostředí: druhé doma
+
+Open scene end trigger: facka
+
+End scene trigger: přípitek
+
+Fungovalo: postava mimo vesnici, kniha o osobnostním rozvoji, "četl jsem, že nemáš věřit všemu co píšou"; výborné nastavení prostředí řvaním na souseda lufťáka při sekání trávy a řezání motorovkou
+
+## Wrap up
+
+- vztahy is the king
+- rychlé střihy rulezz
+- obyčejné prostředí, komplikované vztahy / crazy ordinary world
+- crazy prostředí, obyčejné vztahy
+
+### Setup longformy
+
+- hlavní prostředí
+- sub lokace v prostředí
+- feeling prostředí
+- stav prostředí (under developement, čerstvě dokončeno, použité, za zenitem)
+- název prostředí
+- open scene end triggere
+- end scene trigger
 
 # License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
