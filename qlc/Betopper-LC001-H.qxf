@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition xmlns="http://www.qlcplus.org/FixtureDefinition">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>5.0.0 Beta 3</Version>
+  <Author>Jakub Kriz</Author>
+ </Creator>
+ <Manufacturer>Betopper</Manufacturer>
+ <Model>LC001-H</Model>
+ <Type>Color Changer</Type>
+ <Channel Name="Cold White" Preset="IntensityWhite"/>
+ <Channel Name="Warm White" Preset="IntensityYellow"/>
+ <Channel Name="Dimmer all" Preset="IntensityMasterDimmer"/>
+ <Channel Name="Strobe" Preset="ShutterStrobeSlowFast"/>
+ <Mode Name="2 Channel">
+  <Channel Number="0">Warm White</Channel>
+  <Channel Number="1">Cold White</Channel>
+ </Mode>
+ <Mode Name="4 Channel">
+  <Channel Number="0">Dimmer all</Channel>
+  <Channel Number="1">Warm White</Channel>
+  <Channel Number="2">Cold White</Channel>
+  <Channel Number="3">Strobe</Channel>
+  <Head>
+   <Channel>2</Channel>
+  </Head>
+ </Mode>
+ <Physical>
+  <Bulb Type="LED" Lumens="0" ColourTemperature="3200"/>
+  <Dimensions Weight="1.5" Width="1" Height="1" Depth="1"/>
+  <Lens Name="PC" DegreesMin="60" DegreesMax="64"/>
+  <Focus Type="Fixed" PanMax="0" TiltMax="0"/>
+  <Technical PowerConsumption="170" DmxConnector="3-pin"/>
+ </Physical>
+</FixtureDefinition>
