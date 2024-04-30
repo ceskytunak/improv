@@ -1,5 +1,5 @@
 # Impro workshop Longformy / Freeformy - part II
-![Improv Workshop](https://img.shields.io/badge/Improv-Workshop-red) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+![Improv Workshop](https://img.shields.io/badge/Improv-Workshop-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Specs
 
@@ -250,6 +250,19 @@ Fungovalo: silné pouto mezi kluky, kamarádi. Snaha sbalit holky, pubertální 
 
 Lessons learned: 
 
+- **Hrajeme - Tajemný klášter**
+
+Hlavni prostredi: Klaster, nazev byl zrada v klastere nebo tak nejak
+
+Vedlejsi prostredi: ubikace, modlitebna, nádvoří, kuchyne
+
+Open scene trigger: nevzpomenu si
+
+End scene: nebyl jeste stanoven
+
+Fungovalo: nic specifického, rychle strihy, Mari v okne jako hybatel pribehu, skvely Honza v roli papezskeho vyslance
+
+Lessons learned: v na prvni pohled homogennim prostredi je potreba hledat netypicke postavy, at tam nemame ty same
 
 ## Neděle dopo
 
@@ -258,21 +271,6 @@ Lessons learned:
 - **End scene trigger**
 
 Představení konceptu end scene triggeru, kdy je dopředu domluvené, čím začne end scene nebo přímo skončí představení. 
-
-
-- **Hrajeme - Tajemný klášter**
-
-Hlavní prostředí: 
-
-Vedlejší prostředí: zpovědnice
-
-Open scene end trigger: 
-
-End scene trigger: 
-
-Fungovalo: pokoušení k hříchu;
-
-Lessons learned: 
 
 - **Hrajeme - Temný chladný hrad**
 
@@ -351,8 +349,9 @@ Fungovalo: postava mimo vesnici, kniha o osobnostním rozvoji, "četl jsem, že 
 - open scene end triggere
 - end scene trigger
 
-# License
+## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 Toto dílo je licencováno pod 
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
