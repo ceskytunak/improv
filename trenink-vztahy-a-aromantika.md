@@ -3,7 +3,7 @@
 ![Improv Class](https://img.shields.io/badge/Improv-Class-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Cíl tréninku
-Dvoj trénink zaměřený na budování vztahů prostřednictvím intenzivního očního kontaktu, postoj těla, proximity a emocích. Málo mluvení, hodně výměny mezi partnery na jevišti.
+Trénink zaměřený na budování romantických vztahů.
 
 ## Vybavení
 - Bluetooth reprák
