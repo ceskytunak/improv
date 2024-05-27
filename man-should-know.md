@@ -1,5 +1,5 @@
+# A man should know
 
-## A man should know
 What a Young Man Should Know, 1933. A checklist for becoming a proper man.
 
 This was published in the March 1933 issue of Harper’s Magazine. 

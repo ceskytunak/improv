@@ -308,7 +308,6 @@ Scéna začíná na akční hudbu, jeden herec velkými gesty něco ztvárňuje,
 
 
 
-
 ## TODO na příště
 - Vytvořit google form a od týmu získat náměty na side questy
 - Vyladit nastavení Sound Show, hlavně atmosferické soundy, postahovat z Free databáze, nebo zkusit namapovat další zdroj pro search.
