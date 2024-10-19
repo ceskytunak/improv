@@ -24,6 +24,26 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 
 - Ja budu spokojena, kdyz budeme delat delsi ucelene pribehy, ve kterych pujdeme po logice pribehu ve smyslu "Co by se ted melo stat?" "A pres jakou postavuj k tomu dojit?"
 
+## Klíčové body wokrshopu
+
+- budování postav
+- práce na příběhu
+- práce s protorem a rekvizitami
+- vztahy, vztahová dynamika, komunikační jazyk
+- vztahové archetypy
+- longformy
+- stop - analyze - go - metodika rozboru příběhu ve vysokém detailu
+- téma horror
+
+## Cíle workshopu
+
+- Účastník chápe jak budovat postavu a umí ji tvořit během improvizace.
+- Účastník chápe základní strukturu dynamiky příběhu, je si ji vědom během představení a umí aktivně ovlivňovat děj s cílem pohybovat se v příběhu. Lineárně i nelineárně.
+- Účastník zná techniky střihu a umí je použít tak, aby mohl posouvat děj v čase i prostoru.
+- Účastník zná techniky, jak budovat vztah své i cizí postavy.
+- Účastník je seznámen a procvičen ve vztahových archetypech.
+- Účastník aplikuje improvizační postupy v longformových příbězích (nesturkturovaná, či málo strukturovaná forma).
+- Účastník absolvuje stop - analyze - go metodu během svého hraní. 
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
