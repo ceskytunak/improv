@@ -24,7 +24,7 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 
 - Ja budu spokojena, kdyz budeme delat delsi ucelene pribehy, ve kterych pujdeme po logice pribehu ve smyslu "Co by se ted melo stat?" "A pres jakou postavuj k tomu dojit?"
 
-## Klíčové body wokrshopu
+## Klíčové body workshopu
 
 - budování postav
 - práce na příběhu
@@ -44,6 +44,200 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 - Účastník je seznámen a procvičen ve vztahových archetypech.
 - Účastník aplikuje improvizační postupy v longformových příbězích (nesturkturovaná, či málo strukturovaná forma).
 - Účastník absolvuje stop - analyze - go metodu během svého hraní. 
+
+## Technické vybavení
+
+- Repráky (minimálně blootooth)
+- SFX (notebook / tablet)
+- světla (2x 144W RGBW washe, COB 100W, 2x spoty) + světelný pult / k testování notebooku s QLC+ a Korg nanoKontrol 2
+- prodlužováky 2x 10metrů, 5x 5 metrů
+- Dixit kartičky na feedback
+
+## Prostorové aranže
+
+- kolečko z židlí
+- volný prostor pro pohybové aktivity
+- scéna s židlemi do širokého U a stage + světla
+- možnost zatemnit místnost
+
+## Storytelling long / freeformy - 5 step framework
+
+- úvod (nastavení ordinary worldu, vykreslení hrdiny, světonázo, tužby)
+- změna oproti normálu, problém, konflikt -> uvádí děj do pohybu
+- vývoj příběhu, zvyšování sázek, rozvíjet problém příběh, investovat do postav a příběhu
+- vyvrcholení, dobré, špatné, ale už se to musí rozlomit
+- poučení a vstup do nového života. Konec je novám začátkem... třeba dalšího příběhu
+
+## Střihy
+
+- herecké (přeběhnutí scény s rukama jako nůžkama / vyběhnutí na forbínu / vstup vypravěče - přidání informací, posun děje / vstup vypravěče -> scéna na jiném místě - prostřih jinam) 
+- technické (tma / hudba / opona / přestavba scény / změna kostýmu)
+
+## Hrubé členění bloků
+
+### Sobota dopoledne 9h - 13h
+
+- společné kolečko - očekávání, obavy
+- pohybový warmup - intenzivní
+- mentální blok
+- pauza na kafe
+- warmup
+- mentální blok
+
+### Sobota odpoledne 15h - 19h
+
+- warmup
+- mentální blok
+- pauza
+- warmup
+- mentální blok / představení
+- feedback
+
+### Neděle dopoledne 9h - 13h
+
+- warmup
+- mentální blok
+- pauza
+- warmup
+- mentální blok 
+- velký feedback
+- closing
+
+# Podrobný harmonogram workshopu
+
+## Sobota dopoledne - intro 
+
+- **Začátek povídací** v kolečku. Nastavit rámec workshopu, obavy a očekávání, sepsat zakázku od účastníků. (15 minut.)
+
+- **Hudba a pohyb.** Bez nucených interakcí s ostatními. Focus na sebe, na pohyb, na tanec, na klid, na prostor. (15 minut). Hudba atmosferická, měnící se v dynamiku. 
+
+### Práce s prostorem a rekvizitami ###
+
+- rozdělení na izolovanou činnost (malé) vs vykreslení prostoru (velké)
+
+
+Individuální práce na rekvizitách - společné téma
+
+Skupinky po 3 na scéně a rychlý feedback loop
+
+Témata:
+
+- uklízení
+- práce v kanceláři
+- řízení auta
+- obsluha složitého stroje (vesmírná lod, soustruh, linka na kontrolu lahví)
+- djing, synterátory
+- příprava jídla
+- bytí na baru
+- operace člověka
+
+### Archetypy postav / vztahy postav ###
+
+Zvědomit vztahy symetrické a asymetrické.
+
+U symetrických vztahů jako sourozenci, kolegové hledat od začátku diferenciaci, tady "same but different"
+
+U asymetrických vztahů jít po jasném vymyezení "game" a následně jít do katarze (Platon - Dialogy o kráse).
+
+**Archetipy**
+
+- kamarádi
+- manželé
+- sourozenci
+- kolegové
+- Alfa / beta / gama
+- Ředitel / manažer / zaměstnanec
+
+
+## Sobota dopoledne - building foundation - práce na postavě
+
+### Intro do discover vs invent principu ###
+Vysvětlit proč otázky a nejasně definované nabídky blokují rozvoj postav i příběhu, ale hlavně kreativního myšlení.
+
+Pokud položím otázku, nutím druhou postavu vynalézat odpověď, čímž zaměstnávám její mozek a navíc nerozvíjhím co už na scéně je.
+
+Ideální stav je, že improvizátor ví co dělá a direktivně koná, neptá se. 
+
+- Technika "protože"
+Pokud už se postava zeptá (invent), pak může snadno situaci zachránit přidáním protože... (discover).
+
+Příklad: postavy s potkají a jedna řekne: "Co tady děláš?" a druhá musí vymyslet co a kde jsou. "Eeee, nevim, čekám na vlak."
+
+VS: Postava řekne: "Co tady děláš? Protože jsem měl za to, že do práce vždycky jezdíš autem." A druhá může plynule navázat na nabídku a říct: "To víš, moje žena jela s děckem do nemocnice a tak musím vlakem". ... "Vůbec jsem nevěděl, že už máš děcko, vždycky jsi byl děsně proti dětěm." ... "Ále to víš, co jsem se rozešel s Markétou, tak to se mnou šlo z kopce, ale pak jsem potkal náhodou na školním srazu Jitku a nějak jsem do toho spadnul." ... "Jakože Jitku Beránkovou?, tu co jsem s ní chodil když mi bylo 17?" ... "Jo jo, já jsem nevěděl jak ti to říct, tak jsem radši dělal že na tebe nemám čas, ale teď už asi nemá cenu mlžit."
+
+### Long time, no see ###
+Práce ve skupinkách po 2. Dva kamarádi co se spolu dobře znali během dospívání / bývalí partneři co se rozešli v dobrém, návrat ztraceného syna - zkrátka dva lidé co měli silný vztah v minulosti, ale dlouho, řádově roky až dekádu se neviděli.
+
+Setkání na nezvyklém místě (nezvyklé pro ně, ne nezvyklé obecně), tedy vybuzuje interakce typu: "Tebe bych tady nečekal", nebo "jsem rád že jsi se vypracoval" nebo naopak "je těžké tě vidět jak tady strádáš".
+
+Rozvíjejí dialog a snaží se druhém získat informace jaký je a byl jejich vztah.
+
+Cílem je se ale neptat (invent), ale objevovat druhého skrze odkazy do minosti a výzvy do současnosti (discover /  develop).
+
+- Feedback po skupinkách
+
+### Hrajeme a koukáme
+Jiné skupinky 2 hráčů než v předchozím cvičení vstupují na scénu do prostředí od diváků.
+
+Začínají indirect, tedy ne "Ahoj, co tady děláš?" ale trochu sofistikovaněji, např. "Tady jedna silná černá káva."
+
+Cílem je zvědomit si tři fáze:
+- rozlíčování jaký typ vztahu dvě postavy mají a jak do minulosti sahá
+- prozkoumávání kam se jejich vztah pousnul a jaký je dnes, ideálně skrze konflikt nebo prostře jen follow princip
+- zakončení scény novým nastavením vztahu, např odpuštěním, přimutím výzvy, pochopením jaký jsem byl pitomec...
+
+## Sobota odpoledne - stop - analyze - go
+
+### Into do techniky - od Johnathana Pitse ###
+
+- Představení soft stopu.
+- Hrajeme ve dvou, začínáme na kraji scény, děláme object work.
+- První replika vychází s object worku. Postava A.
+- Soft stop
+- Postava B odkládá svou postavu na poličku na kraji scény.
+- Postava B jde mimo scénu.
+- Postava A je freezlá.
+- Otázky:
+  - Co přesně postava A řekla?
+  - Co tím postava A myslela?
+  - Kam by se měla situace posunout? Jaká by byla adekvátní reakce?
+- Návrat postavy B do původní polohy, vyzvedne se z poličky.
+- Postava B reaguje na postavu A.
+- Repeat until end.
+
+
+Poznámka: musíme jet v tempu, bude nás 15.
+
+## Sobota odpo: After Coffee break session
+
+Nejspíš pokračování stop - analayze -go, jinak jedeme žánr.
+
+### Horor ###
+
+V hororu atmosféra často vychází z prostředí, zvuků, světla a pocitu nejistoty. Ticho a pomalé tempo mohou zvýšit pocit hrozby. Temnota, opuštěná místa nebo tajemná zákoutí jsou klíčová.
+
+Postavy se pohybují pomalu a vědomě, jako by očekávaly něco strašidelného za každým rohem.
+
+Jeden hráč ví něco strašlivého, co ostatní nevědí a snaží se to neprozradit, ale jeho chování to začne postupně odhalovat. Ostatní hráči na tuto neviditelnou hrozbu postupně reagují.
+
+## Neděle dopo
+
+Wrap up soboty, zvědomění principů hledání vztahu, postav, prostředí.
+
+Hrajeme longformy. Stihneme alespoň 3.
+
+Pokud se v sobotu nestihne horor, tak jedeme horor.
+
+### Feedback
+
+Kolečko, DIXIT
+
+### Úklid
+
+- Technika
+- Prostory
+- Věci
+
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
