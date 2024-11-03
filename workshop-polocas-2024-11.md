@@ -220,11 +220,15 @@ Cílem je zvědomit si tři fáze:
 - Otázky:
   - Co přesně postava A řekla?
   - Co tím postava A myslela?
+  - Jaký pocit nebo potřeba vedly postavu k této reakci?
   - Kam by se měla situace posunout? Jaká by byla adekvátní reakce?
+  - Co bych si přál, aby druhá postava udělala?
 - Návrat postavy B do původní polohy, vyzvedne se z poličky.
 - Postava B reaguje na postavu A.
 - Repeat until end.
 
+**Mikro-mentoring** 
+Paralelizace protože nás bude hodně. Začít techniku se zkušenými hráči a pak je použít jako mentory pro další dvojice.
 
 Poznámka: musíme jet v tempu, bude nás 15.
 
@@ -239,6 +243,12 @@ V hororu atmosféra často vychází z prostředí, zvuků, světla a pocitu nej
 Postavy se pohybují pomalu a vědomě, jako by očekávaly něco strašidelného za každým rohem.
 
 Jeden hráč ví něco strašlivého, co ostatní nevědí a snaží se to neprozradit, ale jeho chování to začne postupně odhalovat. Ostatní hráči na tuto neviditelnou hrozbu postupně reagují.
+
+**Technika „Zrcadlení strachu“**
+Jeden hráč zařazuje „odraz strachu“ – tedy vyvolání napětí prostřednictvím pasivního, ale vědomého chování, které v druhých postavách vyvolává zvýšenou obezřetnost.
+
+**Práce se zvuky a tempem**
+Dramaticky snižovat tempo až na extrémní zpomalení, což přináší účastníkům hlubší prožitek nejistoty a posiluje atmosféru.
 
 ## Neděle dopo
 
