@@ -142,6 +142,8 @@ Zvědomit vztahy symetrické a asymetrické.
 
 U symetrických vztahů jako sourozenci, kolegové hledat od začátku diferenciaci, tady "same but different"
 
+Prozkoumat archetypy, které zahrnují extrémní emocionální stavy (např. „bratři-soupeři“ nebo „kolegové s konfliktním zázemím“) a umožnit hráčům měnit dynamiku i během jedné scény.
+
 U asymetrických vztahů jít po jasném vymyezení "game" a následně jít do katarze (Platon - Dialogy o kráse).
 
 **Archetipy**
@@ -153,6 +155,7 @@ U asymetrických vztahů jít po jasném vymyezení "game" a následně jít do 
 - Alfa / beta / gama
 - Ředitel / manažer / zaměstnanec
 
+Prozkoumat „komunikační jazyk“ pro jednotlivé archetypy (např. formální vs. neformální mluva, slang nebo akcenty) – to může posílit atmosféru i identitu postav.
 
 ## Sobota dopoledne - building foundation - práce na postavě
 
