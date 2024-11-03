@@ -28,7 +28,7 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 
 - budování postav
 - práce na příběhu
-- práce s protorem a rekvizitami
+- práce s prostorem a rekvizitami
 - vztahy, vztahová dynamika, komunikační jazyk
 - vztahové archetypy
 - longformy
@@ -40,6 +40,7 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 - Účastník chápe jak budovat postavu a umí ji tvořit během improvizace.
 - Účastník chápe základní strukturu dynamiky příběhu, je si ji vědom během představení a umí aktivně ovlivňovat děj s cílem pohybovat se v příběhu. Lineárně i nelineárně.
 - Účastník zná techniky střihu a umí je použít tak, aby mohl posouvat děj v čase i prostoru.
+- Účastník vědomě pracuje s rekvizitami (např. pouřívá čepici pro rozlišení dvou postav.)
 - Účastník zná techniky, jak budovat vztah své i cizí postavy.
 - Účastník je seznámen a procvičen ve vztahových archetypech.
 - Účastník aplikuje improvizační postupy v longformových příbězích (nesturkturovaná, či málo strukturovaná forma).
@@ -52,6 +53,7 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 - světla (2x 144W RGBW washe, COB 100W, 2x spoty) + světelný pult / k testování notebooku s QLC+ a Korg nanoKontrol 2
 - prodlužováky 2x 10metrů, 5x 5 metrů
 - Dixit kartičky na feedback
+- Rekvizity (kostýmy)
 
 ## Prostorové aranže
 
@@ -113,12 +115,15 @@ Příklad: kamarádi / manželé / sourozenci / kolegové. Alfa / beta / gama. �
 
 ### Práce s prostorem a rekvizitami ###
 
-- rozdělení na izolovanou činnost (malé) vs vykreslení prostoru (velké)
+Zvědomit rozdělení na izolovanou činnost (malé) vs vykreslení prostoru (velké)
 
+Zvědomit "funkční specifičnosti" pohybů, což znamená zvažovat detaily jako váha a odolnost rekvizit (např. plastová vs. skleněná láhev).
+ 
+ Cvičení na rychlé přepínání mezi miniaturními gesty/rekvizitami (např. skládání papírů na stole) a širokými, fyzicky náročnějšími pohyby (otevírání velké brány, skládání nábytku). Umožní to hráčům rychle a efektivně měnit perspektivy.
 
-Individuální práce na rekvizitách - společné téma
+- Nejdříve solo práce na rekvizitách a prostoru (random témata)
 
-Skupinky po 3 na scéně a rychlý feedback loop
+- Poté společné téma - skupinky po 3 na scéně a rychlý feedback loop
 
 Témata:
 
@@ -151,7 +156,7 @@ U asymetrických vztahů jít po jasném vymyezení "game" a následně jít do 
 
 ## Sobota dopoledne - building foundation - práce na postavě
 
-### Intro do discover vs invent principu ###
+### Intro do Discover vs. Invent principu ###
 Vysvětlit proč otázky a nejasně definované nabídky blokují rozvoj postav i příběhu, ale hlavně kreativního myšlení.
 
 Pokud položím otázku, nutím druhou postavu vynalézat odpověď, čímž zaměstnávám její mozek a navíc nerozvíjhím co už na scéně je.
@@ -176,7 +181,7 @@ Cílem je se ale neptat (invent), ale objevovat druhého skrze odkazy do minosti
 
 - Feedback po skupinkách
 
-### Hrajeme a koukáme
+### Hrajeme a koukáme ###
 Jiné skupinky 2 hráčů než v předchozím cvičení vstupují na scénu do prostředí od diváků.
 
 Začínají indirect, tedy ne "Ahoj, co tady děláš?" ale trochu sofistikovaněji, např. "Tady jedna silná černá káva."
@@ -186,9 +191,9 @@ Cílem je zvědomit si tři fáze:
 - prozkoumávání kam se jejich vztah pousnul a jaký je dnes, ideálně skrze konflikt nebo prostře jen follow princip
 - zakončení scény novým nastavením vztahu, např odpuštěním, přimutím výzvy, pochopením jaký jsem byl pitomec...
 
-## Sobota odpoledne - stop - analyze - go
+## Sobota odpoledne - stop - analyze - go ###
 
-### Into do techniky - od Johnathana Pitse ###
+### Into do techniky - od Johnathana Pittse ###
 
 - Představení soft stopu.
 - Hrajeme ve dvou, začínáme na kraji scény, děláme object work.
