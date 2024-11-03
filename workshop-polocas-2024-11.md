@@ -173,6 +173,18 @@ Příklad: postavy s potkají a jedna řekne: "Co tady děláš?" a druhá musí
 
 VS: Postava řekne: "Co tady děláš? Protože jsem měl za to, že do práce vždycky jezdíš autem." A druhá může plynule navázat na nabídku a říct: "To víš, moje žena jela s děckem do nemocnice a tak musím vlakem". ... "Vůbec jsem nevěděl, že už máš děcko, vždycky jsi byl děsně proti dětěm." ... "Ále to víš, co jsem se rozešel s Markétou, tak to se mnou šlo z kopce, ale pak jsem potkal náhodou na školním srazu Jitku a nějak jsem do toho spadnul." ... "Jakože Jitku Beránkovou?, tu co jsem s ní chodil když mi bylo 17?" ... "Jo jo, já jsem nevěděl jak ti to říct, tak jsem radši dělal že na tebe nemám čas, ale teď už asi nemá cenu mlžit."
 
+#### Aha moment ####
+
+Introspektivní cvičení, kde hráči reflektují svá vnitřní „aha“ během hry. Tato mini introspekce, kdy improvizátor jen pasivně reaguje a reflektuje, může zajistit plynulý „discover“ přístup.
+
+Tedy prakticky jeden mluví a druhý směrem do diváků "mimo spoluhráče" vysvětluje, co mu asi druhá postava říká.
+
+Druhá postava pokračuje replikou jako kdyby to co pochopila první postava byla pravda.
+
+Po chvíli se vymění.
+
+Nejdříve právě ve skupinkách po 2, pak společná práce na scéně před všemi.
+
 ### Long time, no see ###
 Práce ve skupinkách po 2. Dva kamarádi co se spolu dobře znali během dospívání / bývalí partneři co se rozešli v dobrém, návrat ztraceného syna - zkrátka dva lidé co měli silný vztah v minulosti, ale dlouho, řádově roky až dekádu se neviděli.
 
