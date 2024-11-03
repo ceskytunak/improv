@@ -258,6 +258,9 @@ Hrajeme longformy. Stihneme alespoň 3.
 
 Pokud se v sobotu nestihne horor, tak jedeme horor.
 
+### Alternativní zakončení příběhů ###
+ Každá hrající skupina si na konci svého příběhu může připravit různé alternativní zakončení, např. „šťastný konec“ vs. „otevřený konec“. Alternativní pohledy nám pomohou vyjasnit důsledky svých rozhodnutí během hry - přes soft stop - in game reflexe.
+
 ### Feedback
 
 Kolečko, DIXIT
