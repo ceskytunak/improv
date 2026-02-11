@@ -3,19 +3,19 @@
 <Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
  <Creator>
   <Name>Q Light Controller Plus</Name>
-  <Version>4.13.0</Version>
+  <Version>4.12.7</Version>
   <Author>hello</Author>
  </Creator>
  <Engine>
   <InputOutputMap>
-   <BeatGenerator BeatType="Disabled" BPM="0"/>
    <Universe Name="Polocas workshop" ID="0">
-    <Input Plugin="MIDI" UID="nanoKONTROL2" Line="0" Profile="KORG nanoKONTROL2"/>
-    <Feedback Plugin="MIDI" UID="nanoKONTROL2" Line="1"/>
+    <Input Plugin="MIDI" UID="None" Line="0" Profile="KORG nanoKONTROL2"/>
+    <Feedback Plugin="MIDI" UID="None" Line="1"/>
    </Universe>
    <Universe Name="Universe 2" ID="1"/>
    <Universe Name="Universe 3" ID="2"/>
    <Universe Name="Universe 4" ID="3"/>
+   <Universe Name="Universe 5" ID="4"/>
   </InputOutputMap>
   <Fixture>
    <Manufacturer>Generic</Manufacturer>

@@ -1,4 +1,5 @@
 # Impro workshop Longformy / Freeformy - part II
+
 ![Improv Workshop](https://img.shields.io/badge/Improv-Workshop-red) ![Poločas Nápadu](https://img.shields.io/badge/Poločas-Nápadu-green) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Specs
@@ -19,6 +20,7 @@
 - Práce se zvuky a světlem.
 
 Účastník workshopu:
+
 - chápe principy longforem
 - umí střihat scénu
 - umí extrahovat hlavní postavu a podporovat ji
@@ -51,7 +53,8 @@
 - poučení
 - závěr
 
-## Hero journey 
+## Hero journey
+
 Extended framework pro tvorbu příběhů.
 
 ## Storytelling long / freeformy
@@ -113,7 +116,7 @@ Extended framework pro tvorbu příběhů.
 
 # Podrobný harmonogram workshopu
 
-## Sobota dopoledne - intro 
+## Sobota dopoledne - intro
 
 - **Začátek povídací** v kolečku. Nastavit rámec workshopu, obavy a očekávání, sepsat zakázku od účastníků. (15 minut.)
 
@@ -124,12 +127,19 @@ Extended framework pro tvorbu příběhů.
 Práce ve skupinkách po dvou, zanícené diskuse o tématech vychíázející z Man should know 1933. Cílem je rozpovídat se o obyčejném tématu a vést zanícenou diskusi o obyčených věcech. Postavy v longformách nemusí nutně jen posouvat děj a provádět velké akce, ale také rozkreslovat své záliby, vést obyčejný život.
 
 *Použitá témata*
+
 - ucinky skodlivosti alkoholu na lidsky organismus
+
 - rybareni
+
 - strileni a drzeni zbrani
+
 - prvni pomoc
+
 - vymena napouštěcí hadice u záchoda
+
 - chůze / hiking
+
 - judo / box
 
 - **Přípitek**
@@ -196,12 +206,12 @@ Fungovalo: intriky
 Prostředí zůstává cirkus.
 
 1. Nudná scéna na lavičce hodinu před představením
-Hráči sedí na lavičce a dělají úplné prd.
-Lessons learned: nedělat dlouho nic je víc.
-Cílem vykreslení obyč dne a nudy v cirkusu
+   Hráči sedí na lavičce a dělají úplné prd.
+   Lessons learned: nedělat dlouho nic je víc.
+   Cílem vykreslení obyč dne a nudy v cirkusu
 
 2. Rutiná cesta autem se slonem ke zvěrolékaři
-5 lidí v autě, bavení se o ničem. Fungovalo otáčení se spolujezdce na zadní sedačky.
+   5 lidí v autě, bavení se o ničem. Fungovalo otáčení se spolujezdce na zadní sedačky.
 
 ## Sobota odpoledne
 
@@ -232,7 +242,6 @@ Fungovalo: vysvětlení zvláštního chování postavy, která zjevně nepřin�
 Lessons learned: nesnažit se do scény dostat nové věci, respektovat normální svět, negování nastaveného světa nefunguje
 
 ## Sobota odpo: After Coffee break session
-
 
 - **Hrajeme - Skautský tábor Firsthood**
 
@@ -350,6 +359,7 @@ Fungovalo: postava mimo vesnici, kniha o osobnostním rozvoji, "četl jsem, že 
 - end scene trigger
 
 ## License
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Toto dílo je licencováno pod 
